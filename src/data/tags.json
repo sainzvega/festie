@@ -1,0 +1,287 @@
+{
+    "artists": {
+      "41": {
+        "_id": 41, 
+        "can_associate_shows": false, 
+        "color": "#20b59a", 
+        "external_id": null, 
+        "image_suffix": "", 
+        "object_type": 2, 
+        "title": "Indie rock"
+      }, 
+      "42": {
+        "_id": 42, 
+        "can_associate_shows": false, 
+        "color": "#0d7fe8", 
+        "external_id": null, 
+        "image_suffix": "", 
+        "object_type": 2, 
+        "title": "Dance rock"
+      }, 
+      "43": {
+        "_id": 43, 
+        "can_associate_shows": false, 
+        "color": "#e8760d", 
+        "external_id": null, 
+        "image_suffix": "", 
+        "object_type": 2, 
+        "title": "Electronic"
+      }
+    }, 
+    "shows": {
+      "719": {
+        "_id": 719, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "697", 
+        "image_suffix": "", 
+        "object_type": 1, 
+        "title": "Weekend 1"
+      }, 
+      "720": {
+        "_id": 720, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "698", 
+        "image_suffix": "", 
+        "object_type": 1, 
+        "title": "Weekend 2"
+      }
+    }, 
+    "venues": {
+      "15": {
+        "_id": 15, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-activities", 
+        "image_suffix": "20171114113835_f9b944cd", 
+        "object_type": 4, 
+        "title": "Activities"
+      }, 
+      "16": {
+        "_id": 16, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-atm", 
+        "image_suffix": "20171114113836_bc32db86", 
+        "object_type": 4, 
+        "title": "ATM"
+      }, 
+      "17": {
+        "_id": 17, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-bar", 
+        "image_suffix": "20171114113836_29405e9a", 
+        "object_type": 4, 
+        "title": "Bar"
+      }, 
+      "18": {
+        "_id": 18, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-camping", 
+        "image_suffix": "20171114113836_b6c4a3df", 
+        "object_type": 4, 
+        "title": "Camping"
+      }, 
+      "19": {
+        "_id": 19, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-charging-station", 
+        "image_suffix": "20171114113837_b08308d9", 
+        "object_type": 4, 
+        "title": "Charging station"
+      }, 
+      "20": {
+        "_id": 20, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-entrance-exit", 
+        "image_suffix": "20171114113837_e6eaf541", 
+        "object_type": 4, 
+        "title": "Entrance / Exit"
+      }, 
+      "21": {
+        "_id": 21, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-first-aid", 
+        "image_suffix": "20171114113837_24893604", 
+        "object_type": 4, 
+        "title": "First aid"
+      }, 
+      "22": {
+        "_id": 22, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-food-drinks", 
+        "image_suffix": "20171114113837_1b25a184", 
+        "object_type": 4, 
+        "title": "Food & drinks"
+      }, 
+      "23": {
+        "_id": 23, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-information", 
+        "image_suffix": "20171114113837_b8772184", 
+        "object_type": 4, 
+        "title": "Information"
+      }, 
+      "24": {
+        "_id": 24, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-lost-found", 
+        "image_suffix": "20171114113838_5e0347c0", 
+        "object_type": 4, 
+        "title": "Lost & found"
+      }, 
+      "25": {
+        "_id": 25, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-merchandizing", 
+        "image_suffix": "20171114113838_9fa2e354", 
+        "object_type": 4, 
+        "title": "Merchandizing"
+      }, 
+      "26": {
+        "_id": 26, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-parking", 
+        "image_suffix": "20171114113838_73353197", 
+        "object_type": 4, 
+        "title": "Parking"
+      }, 
+      "27": {
+        "_id": 27, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-recycling", 
+        "image_suffix": "20171114113839_5679c8d7", 
+        "object_type": 4, 
+        "title": "Recycling"
+      }, 
+      "28": {
+        "_id": 28, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-restroom", 
+        "image_suffix": "20171114113839_eab4a846", 
+        "object_type": 4, 
+        "title": "Restrooms"
+      }, 
+      "29": {
+        "_id": 29, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-shower", 
+        "image_suffix": "20171114113839_51366264", 
+        "object_type": 4, 
+        "title": "Shower"
+      }, 
+      "30": {
+        "_id": 30, 
+        "can_associate_shows": true, 
+        "color": "", 
+        "external_id": "gc-venuetag-stage", 
+        "image_suffix": "20171114113839_3bf9d0ab", 
+        "object_type": 4, 
+        "title": "Stage"
+      }, 
+      "31": {
+        "_id": 31, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-tickets", 
+        "image_suffix": "20171114113839_1abe5e7f", 
+        "object_type": 4, 
+        "title": "Tickets"
+      }, 
+      "32": {
+        "_id": 32, 
+        "can_associate_shows": true, 
+        "color": "", 
+        "external_id": "gc-venuetag-vip", 
+        "image_suffix": "20171114113840_c28bd800", 
+        "object_type": 4, 
+        "title": "VIP"
+      }, 
+      "33": {
+        "_id": 33, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-water-fountain", 
+        "image_suffix": "20171114113840_ed386207", 
+        "object_type": 4, 
+        "title": "Water fountain"
+      }, 
+      "34": {
+        "_id": 34, 
+        "can_associate_shows": true, 
+        "color": "", 
+        "external_id": "gc-venuetag-other", 
+        "image_suffix": "20171114113840_30e366ad", 
+        "object_type": 4, 
+        "title": "Other"
+      }, 
+      "35": {
+        "_id": 35, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-accessibility", 
+        "image_suffix": "20171114113841_16fceb06", 
+        "object_type": 4, 
+        "title": "ADA access"
+      }, 
+      "36": {
+        "_id": 36, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-bus", 
+        "image_suffix": "20171114113842_e0da7b7b", 
+        "object_type": 4, 
+        "title": "Bus/Shuttle stop"
+      }, 
+      "37": {
+        "_id": 37, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-general-store", 
+        "image_suffix": "20171114113842_067fedfd", 
+        "object_type": 4, 
+        "title": "General store"
+      }, 
+      "38": {
+        "_id": 38, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-lockers", 
+        "image_suffix": "20171114113842_99ef5236", 
+        "object_type": 4, 
+        "title": "Lockers"
+      }, 
+      "39": {
+        "_id": 39, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-record-store", 
+        "image_suffix": "20171114113842_24da6836", 
+        "object_type": 4, 
+        "title": "Record store"
+      }, 
+      "40": {
+        "_id": 40, 
+        "can_associate_shows": false, 
+        "color": "", 
+        "external_id": "gc-venuetag-train", 
+        "image_suffix": "20171114113842_cda092e1", 
+        "object_type": 4, 
+        "title": "Train station"
+      }
+    }
+  }

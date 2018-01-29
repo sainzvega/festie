@@ -1,0 +1,22 @@
+{
+    "1224": {
+      "_id": 1224, 
+      "can_associate_shows": 1, 
+      "photo_suffix": "", 
+      "sort_order": null, 
+      "subtitle": null, 
+      "tags": [], 
+      "title": "AR Map"
+    }, 
+    "46": {
+      "_id": 46, 
+      "can_associate_shows": 1, 
+      "photo_suffix": "", 
+      "sort_order": null, 
+      "subtitle": null, 
+      "tags": [
+        30
+      ], 
+      "title": "TBD"
+    }
+  }
