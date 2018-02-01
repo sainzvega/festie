@@ -6,7 +6,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Kali Uchis"
+    "title": "Kali Uchis",
+    "rank": 3
   },
   "724": {
     "_id": 724,
@@ -15,7 +16,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Justin Martin"
+    "title": "Justin Martin",
+    "rank": 5
   },
   "725": {
     "_id": 725,
@@ -24,7 +26,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jungle"
+    "title": "Jungle",
+    "rank": 3
   },
   "726": {
     "_id": 726,
@@ -33,7 +36,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Joseph Capriati"
+    "title": "Joseph Capriati",
+    "rank": 6
   },
   "727": {
     "_id": 727,
@@ -42,7 +46,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "King Krule"
+    "title": "King Krule",
+    "rank": 3
   },
   "728": {
     "_id": 728,
@@ -51,7 +56,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Kelela"
+    "title": "Kelela",
+    "rank": 4
   },
   "729": {
     "_id": 729,
@@ -60,7 +66,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Kamasi Washington"
+    "title": "Kamasi Washington",
+    "rank": 3
   },
   "730": {
     "_id": 730,
@@ -69,7 +76,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Kamaiyah"
+    "title": "Kamaiyah",
+    "rank": 4
   },
   "731": {
     "_id": 731,
@@ -78,7 +86,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "K\u00f6lsch"
+    "title": "kolsch",
+    "rank": 6
   },
   "732": {
     "_id": 732,
@@ -87,7 +96,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Knox Fortune"
+    "title": "Knox Fortune",
+    "rank": 6
   },
   "733": {
     "_id": 733,
@@ -96,7 +106,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Black Madonna"
+    "title": "The Black Madonna",
+    "rank": 5
   },
   "734": {
     "_id": 734,
@@ -105,7 +116,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Declan McKenna"
+    "title": "Declan McKenna",
+    "rank": 6
   },
   "735": {
     "_id": 735,
@@ -114,7 +126,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Ekali"
+    "title": "Ekali",
+    "rank": 6
   },
   "736": {
     "_id": 736,
@@ -123,7 +136,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Alan Walker"
+    "title": "Alan Walker",
+    "rank": 4
   },
   "737": {
     "_id": 737,
@@ -132,7 +146,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Cash Cash"
+    "title": "Cash Cash",
+    "rank": 6
   },
   "738": {
     "_id": 738,
@@ -141,7 +156,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "X Japan"
+    "title": "X Japan",
+    "rank": 5
   },
   "739": {
     "_id": 739,
@@ -150,7 +166,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Yaeji"
+    "title": "Yaeji",
+    "rank": 6
   },
   "740": {
     "_id": 740,
@@ -159,7 +176,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Whethan"
+    "title": "Whethan",
+    "rank": 6
   },
   "741": {
     "_id": 741,
@@ -168,7 +186,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Wizkid"
+    "title": "Wizkid",
+    "rank": 4
   },
   "742": {
     "_id": 742,
@@ -177,7 +196,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Vance Joy"
+    "title": "Vance Joy",
+    "rank": 3
   },
   "743": {
     "_id": 743,
@@ -186,7 +206,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Illenium"
+    "title": "Illenium",
+    "rank": 3
   },
   "744": {
     "_id": 744,
@@ -195,7 +216,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jamie Jones"
+    "title": "Jamie Jones",
+    "rank": 4
   },
   "745": {
     "_id": 745,
@@ -204,7 +226,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Mar\u00edas"
+    "title": "The Marias",
+    "rank": 6
   },
   "746": {
     "_id": 746,
@@ -213,7 +236,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Drums"
+    "title": "The Drums",
+    "rank": 4
   },
   "747": {
     "_id": 747,
@@ -222,7 +246,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Vince Staples"
+    "title": "Vince Staples",
+    "rank": 2
   },
   "748": {
     "_id": 748,
@@ -231,7 +256,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "John Maus"
+    "title": "John Maus",
+    "rank": 6
   },
   "749": {
     "_id": 749,
@@ -240,7 +266,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jorja Smith"
+    "title": "Jorja Smith",
+    "rank": 5
   },
   "750": {
     "_id": 750,
@@ -249,7 +276,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jessie Ware"
+    "title": "Jessie Ware",
+    "rank": 4
   },
   "751": {
     "_id": 751,
@@ -258,7 +286,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jidenna"
+    "title": "Jidenna", 
+    "rank": 5
   },
   "752": {
     "_id": 752,
@@ -267,7 +296,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Japanese Breakfast"
+    "title": "Japanese Breakfast",
+    "rank": 6
   },
   "753": {
     "_id": 753,
@@ -276,7 +306,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jean-Michel Jarre"
+    "title": "Jean-Michel Jarre",
+    "rank": 3
   },
   "754": {
     "_id": 754,
@@ -285,7 +316,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jacob Banks"
+    "title": "Jacob Banks",
+    "rank": 5
   },
   "755": {
     "_id": 755,
@@ -294,7 +326,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jamiroquai"
+    "title": "Jamiroquai",
+    "rank": 2
   },
   "756": {
     "_id": 756,
@@ -303,7 +336,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Ibeyi"
+    "title": "Ibeyi",
+    "rank": 4
   },
   "757": {
     "_id": 757,
@@ -312,7 +346,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jackmaster"
+    "title": "Jackmaster",
+    "rank": 6
   },
   "758": {
     "_id": 758,
@@ -321,7 +356,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "KITTENS"
+    "title": "KITTENS",
+    "rank": 6
   },
   "759": {
     "_id": 759,
@@ -330,7 +366,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Jason Bentley"
+    "title": "Jason Bentley",
+    "rank": 6
   },
   "760": {
     "_id": 760,
@@ -339,7 +376,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Post Malone"
+    "title": "Post Malone",
+    "rank": 2
   },
   "761": {
     "_id": 761,
@@ -348,7 +386,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Migos"
+    "title": "Migos",
+    "rank": 2
   },
   "762": {
     "_id": 762,
@@ -357,7 +396,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "SZA"
+    "title": "SZA",
+    "rank": 2
   },
   "763": {
     "_id": 763,
@@ -366,7 +406,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "REZZ"
+    "title": "REZZ",
+    "rank": 4
   },
   "764": {
     "_id": 764,
@@ -375,7 +416,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "AURORA"
+    "title": "AURORA",
+    "rank": 5
   },
   "765": {
     "_id": 765,
@@ -384,7 +426,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Angel Olsen"
+    "title": "Angel Olsen",
+    "rank": 3
   },
   "766": {
     "_id": 766,
@@ -393,7 +436,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Amin\u00e9"
+    "title": "Amine",
+    "rank": 4
   },
   "767": {
     "_id": 767,
@@ -402,7 +446,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Alvvays"
+    "title": "Alvvays",
+    "rank": 5
   },
   "768": {
     "_id": 768,
@@ -411,7 +456,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "alt-J"
+    "title": "alt-J",
+    "rank": 2
   },
   "769": {
     "_id": 769,
@@ -420,7 +466,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Alison Wonderland"
+    "title": "Alison Wonderland",
+    "rank": 4
   },
   "770": {
     "_id": 770,
@@ -429,7 +476,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Alina Baraz"
+    "title": "Alina Baraz",
+    "rank": 4
   },
   "771": {
     "_id": 771,
@@ -438,7 +486,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "AC Slater"
+    "title": "AC Slater",
+    "rank": 6
   },
   "772": {
     "_id": 772,
@@ -447,7 +496,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "A Perfect Circle"
+    "title": "A Perfect Circle",
+    "rank": 2
   },
   "773": {
     "_id": 773,
@@ -456,7 +506,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "6LACK"
+    "title": "6LACK",
+    "rank": 3
   },
   "774": {
     "_id": 774,
@@ -465,7 +516,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Tash Sultana"
+    "title": "Tash Sultana",
+    "rank": 4
   },
   "775": {
     "_id": 775,
@@ -474,7 +526,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "TroyBoi"
+    "title": "TroyBoi",
+    "rank": 5
   },
   "776": {
     "_id": 776,
@@ -483,7 +536,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Hundred Waters"
+    "title": "Hundred Waters",
+    "rank": 6
   },
   "777": {
     "_id": 777,
@@ -492,7 +546,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "HITO"
+    "title": "HITO",
+    "rank": 6
   },
   "778": {
     "_id": 778,
@@ -501,7 +556,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Tyler, the Creator"
+    "title": "Tyler, the Creator",
+    "rank": 2
   },
   "779": {
     "_id": 779,
@@ -510,7 +566,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Giraffage"
+    "title": "Giraffage",
+    "rank": 6
   },
   "780": {
     "_id": 780,
@@ -519,7 +576,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "French Montana"
+    "title": "French Montana",
+    "rank": 3
   },
   "781": {
     "_id": 781,
@@ -528,7 +586,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "HAIM"
+    "title": "HAIM",
+    "rank": 6
   },
   "782": {
     "_id": 782,
@@ -537,7 +596,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Greta Van Fleet"
+    "title": "Greta Van Fleet",
+    "rank": 5
   },
   "783": {
     "_id": 783,
@@ -546,7 +606,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Hayley Kiyoko"
+    "title": "Hayley Kiyoko",
+    "rank": 5
   },
   "784": {
     "_id": 784,
@@ -555,7 +616,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Hannah Wants"
+    "title": "Hannah Wants",
+    "rank": 6
   },
   "785": {
     "_id": 785,
@@ -564,7 +626,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Highly Suspect"
+    "title": "Highly Suspect",
+    "rank": 4
   },
   "786": {
     "_id": 786,
@@ -573,7 +636,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Helado Negro"
+    "title": "Helado Negro",
+    "rank": 6
   },
   "787": {
     "_id": 787,
@@ -582,7 +646,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Tank and the Bangas"
+    "title": "Tank and the Bangas",
+    "rank": 6
   },
   "788": {
     "_id": 788,
@@ -591,7 +656,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Talaboman"
+    "title": "Talaboman",
+    "rank": 6
   },
   "789": {
     "_id": 789,
@@ -600,7 +666,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Beyonc\u00e9"
+    "title": "Beyonce",
+    "rank": 1
   },
   "790": {
     "_id": 790,
@@ -609,7 +676,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Big Thief"
+    "title": "Big Thief",
+    "rank": 6
   },
   "791": {
     "_id": 791,
@@ -618,7 +686,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Bronx"
+    "title": "The Bronx",
+    "rank": 6
   },
   "792": {
     "_id": 792,
@@ -627,7 +696,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Blaze"
+    "title": "The Blaze",
+    "rank": 6
   },
   "793": {
     "_id": 793,
@@ -636,7 +706,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Delirians"
+    "title": "The Delirians",
+    "rank": 6
   },
   "794": {
     "_id": 794,
@@ -645,7 +716,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Buttertones"
+    "title": "The Buttertones",
+    "rank": 6
   },
   "795": {
     "_id": 795,
@@ -654,7 +726,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Bane's World"
+    "title": "Bane's World",
+    "rank": 6
   },
   "796": {
     "_id": 796,
@@ -663,7 +736,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Barclay Crenshaw"
+    "title": "Barclay Crenshaw",
+    "rank": 6
   },
   "797": {
     "_id": 797,
@@ -672,7 +746,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Avalon Emerson"
+    "title": "Avalon Emerson",
+    "rank": 6
   },
   "798": {
     "_id": 798,
@@ -681,7 +756,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "B Boys"
+    "title": "B Boys",
+    "rank": 6
   },
   "799": {
     "_id": 799,
@@ -690,7 +766,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Benjamin Booker"
+    "title": "Benjamin Booker",
+    "rank": 5
   },
   "800": {
     "_id": 800,
@@ -699,7 +776,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Benjamin Clementine"
+    "title": "Benjamin Clementine",
+    "rank": 6
   },
   "801": {
     "_id": 801,
@@ -708,7 +786,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Bedouin"
+    "title": "Bedouin",
+    "rank": 6
   },
   "802": {
     "_id": 802,
@@ -717,7 +796,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Belly"
+    "title": "Belly",
+    "rank": 5
   },
   "803": {
     "_id": 803,
@@ -726,7 +806,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "David Byrne"
+    "title": "David Byrne",
+    "rank": 2
   },
   "804": {
     "_id": 804,
@@ -735,7 +816,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "DeJ Loaf"
+    "title": "DeJ Loaf",
+    "rank": 4
   },
   "805": {
     "_id": 805,
@@ -744,7 +826,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Neighbourhood"
+    "title": "The Neighbourhood",
+    "rank": 4
   },
   "806": {
     "_id": 806,
@@ -753,7 +836,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Carpenter Brut"
+    "title": "Carpenter Brut",
+    "rank": 6
   },
   "807": {
     "_id": 807,
@@ -762,7 +846,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Cherry Glazerr"
+    "title": "Cherry Glazerr",
+    "rank": 6
   },
   "808": {
     "_id": 808,
@@ -771,7 +856,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Nile Rodgers & CHIC"
+    "title": "Nile Rodgers & CHIC",
+    "rank": 3
   },
   "809": {
     "_id": 809,
@@ -780,7 +866,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Chloe x Halle"
+    "title": "Chloe x Halle",
+    "rank": 6
   },
   "810": {
     "_id": 810,
@@ -789,7 +876,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Chris Liebing"
+    "title": "Chris Liebing",
+    "rank": 5
   },
   "811": {
     "_id": 811,
@@ -798,7 +886,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Chromeo"
+    "title": "Chromeo",
+    "rank": 3
   },
   "812": {
     "_id": 812,
@@ -807,7 +896,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Cuco"
+    "title": "Cuco",
+    "rank": 6
   },
   "813": {
     "_id": 813,
@@ -816,7 +906,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Daniel Caesar"
+    "title": "Daniel Caesar",
+    "rank": 3
   },
   "814": {
     "_id": 814,
@@ -825,7 +916,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "THEY."
+    "title": "THEY.",
+    "rank": 6
   },
   "815": {
     "_id": 815,
@@ -834,7 +926,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "BROCKHAMPTON"
+    "title": "BROCKHAMPTON",
+    "rank": 4
   },
   "816": {
     "_id": 816,
@@ -843,7 +936,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "B\u00d8RNS"
+    "title": "BORNS",
+    "rank": 3
   },
   "817": {
     "_id": 817,
@@ -852,7 +946,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Busy P"
+    "title": "Busy P",
+    "rank": 6
   },
   "818": {
     "_id": 818,
@@ -861,7 +956,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Buscabulla"
+    "title": "Buscabulla",
+    "rank": 6
   },
   "819": {
     "_id": 819,
@@ -870,7 +966,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "blackbear"
+    "title": "blackbear",
+    "rank": 3
   },
   "820": {
     "_id": 820,
@@ -879,7 +976,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Black Coffee"
+    "title": "Black Coffee",
+    "rank": 4
   },
   "821": {
     "_id": 821,
@@ -888,7 +986,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Boogarins"
+    "title": "Boogarins",
+    "rank": 6
   },
   "822": {
     "_id": 822,
@@ -897,7 +996,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Bleachers"
+    "title": "Bleachers",
+    "rank": 4
   },
   "823": {
     "_id": 823,
@@ -906,7 +1006,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Carl Craig"
+    "title": "Carl Craig",
+    "rank": 6
   },
   "824": {
     "_id": 824,
@@ -915,7 +1016,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Cardi B"
+    "title": "Cardi B",
+    "rank": 2
   },
   "825": {
     "_id": 825,
@@ -924,7 +1026,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Tom Misch"
+    "title": "Tom Misch",
+    "rank": 5
   },
   "826": {
     "_id": 826,
@@ -933,7 +1036,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Sudan Archives"
+    "title": "Sudan Archives",
+    "rank": 6
   },
   "827": {
     "_id": 827,
@@ -942,7 +1046,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "SuperDuperKyle"
+    "title": "SuperDuperKyle",
+    "rank": 5
   },
   "828": {
     "_id": 828,
@@ -960,7 +1065,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Snakehips"
+    "title": "Snakehips",
+    "rank": 4
   },
   "830": {
     "_id": 830,
@@ -969,7 +1075,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Soulwax"
+    "title": "Soulwax",
+    "rank": 3
   },
   "831": {
     "_id": 831,
@@ -978,7 +1085,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "St. Vincent"
+    "title": "St. Vincent",
+    "rank": 2
   },
   "832": {
     "_id": 832,
@@ -987,7 +1095,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Sigrid"
+    "title": "Sigrid",
+    "rank": 6
   },
   "833": {
     "_id": 833,
@@ -1005,7 +1114,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Skip Marley"
+    "title": "Skip Marley",
+    "rank": 6
   },
   "835": {
     "_id": 835,
@@ -1014,7 +1124,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Slow Magic"
+    "title": "Slow Magic",
+    "rank": 6
   },
   "836": {
     "_id": 836,
@@ -1023,7 +1134,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Fleet Foxes"
+    "title": "Fleet Foxes", 
+    "rank": 2
   },
   "837": {
     "_id": 837,
@@ -1032,7 +1144,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Flatbush Zombies"
+    "title": "Flatbush Zombies",
+    "rank": 5
   },
   "838": {
     "_id": 838,
@@ -1041,7 +1154,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Elohim"
+    "title": "Elohim",
+    "rank": 6
   },
   "839": {
     "_id": 839,
@@ -1050,7 +1164,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Dreams"
+    "title": "Dreams",
+    "rank": 5
   },
   "840": {
     "_id": 840,
@@ -1059,7 +1174,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Django Django"
+    "title": "Django Django",
+    "rank": 5
   },
   "841": {
     "_id": 841,
@@ -1068,7 +1184,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Deorro"
+    "title": "Deorro",
+    "rank": 3
   },
   "842": {
     "_id": 842,
@@ -1077,7 +1194,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "First Aid Kit"
+    "title": "First Aid Kit",
+    "rank": 4
   },
   "843": {
     "_id": 843,
@@ -1086,7 +1204,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "FIDLAR"
+    "title": "FIDLAR",
+    "rank": 4
   },
   "844": {
     "_id": 844,
@@ -1095,7 +1214,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Fazerdaze"
+    "title": "Fazerdaze",
+    "rank": 6
   },
   "845": {
     "_id": 845,
@@ -1104,7 +1224,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Eminem"
+    "title": "Eminem",
+    "rank": 1
   },
   "846": {
     "_id": 846,
@@ -1113,7 +1234,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The War On Drugs"
+    "title": "The War On Drugs",
+    "rank": 2
   },
   "847": {
     "_id": 847,
@@ -1122,7 +1244,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Weeknd"
+    "title": "The Weeknd",
+    "rank": 1
   },
   "848": {
     "_id": 848,
@@ -1131,7 +1254,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Se\u00f1or Kino"
+    "title": "Senor Kino",
+    "rank": 6
   },
   "849": {
     "_id": 849,
@@ -1140,7 +1264,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "San Holo"
+    "title": "San Holo",
+    "rank": 4
   },
   "850": {
     "_id": 850,
@@ -1149,7 +1274,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Russ"
+    "title": "Russ",
+    "rank": 3
   },
   "851": {
     "_id": 851,
@@ -1158,7 +1284,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Ron Gallo"
+    "title": "Ron Gallo",
+    "rank": 6
   },
   "852": {
     "_id": 852,
@@ -1167,7 +1294,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Rolling Blackouts Coastal Fever"
+    "title": "Rolling Blackouts Coastal Fever",
+    "rank": 6
   },
   "853": {
     "_id": 853,
@@ -1176,7 +1304,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "PVRIS"
+    "title": "PVRIS",
+    "rank": 5
   },
   "854": {
     "_id": 854,
@@ -1185,7 +1314,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Princess Nokia"
+    "title": "Princess Nokia",
+    "rank": 5
   },
   "855": {
     "_id": 855,
@@ -1194,7 +1324,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Priests"
+    "title": "Priests",
+    "rank": 6
   },
   "856": {
     "_id": 856,
@@ -1203,7 +1334,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Portugal. The Man"
+    "title": "Portugal. The Man",
+    "rank": 2
   },
   "857": {
     "_id": 857,
@@ -1212,7 +1344,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Petit Biscuit"
+    "title": "Petit Biscuit",
+    "rank": 4
   },
   "858": {
     "_id": 858,
@@ -1221,7 +1354,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Westside Gunn + Conway"
+    "title": "Westside Gunn + Conway",
+    "rank": 6
   },
   "859": {
     "_id": 859,
@@ -1230,7 +1364,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "The Regrettes"
+    "title": "The Regrettes",
+    "rank": 6
   },
   "860": {
     "_id": 860,
@@ -1239,7 +1374,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Peggy Gou"
+    "title": "Peggy Gou",
+    "rank": 6
   },
   "861": {
     "_id": 861,
@@ -1248,7 +1384,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Perfume Genius"
+    "title": "Perfume Genius",
+    "rank": 5
   },
   "862": {
     "_id": 862,
@@ -1257,7 +1394,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "ODESZA"
+    "title": "ODESZA",
+    "rank": 2
   },
   "863": {
     "_id": 863,
@@ -1266,7 +1404,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Oh Sees"
+    "title": "Oh Sees",
+    "rank": 6
   },
   "864": {
     "_id": 864,
@@ -1275,7 +1414,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Noname"
+    "title": "Noname",
+    "rank": 5
   },
   "865": {
     "_id": 865,
@@ -1284,7 +1424,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Nothing But Thieves"
+    "title": "Nothing But Thieves",
+    "rank": 6
   },
   "866": {
     "_id": 866,
@@ -1302,7 +1443,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Party Favor"
+    "title": "Party Favor",
+    "rank": 6
   },
   "868": {
     "_id": 868,
@@ -1311,7 +1453,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Omar-S"
+    "title": "Omar-S",
+    "rank": 6
   },
   "869": {
     "_id": 869,
@@ -1320,7 +1463,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Otoboke Beaver"
+    "title": "Otoboke Beaver",
+    "rank": 6
   },
   "870": {
     "_id": 870,
@@ -1329,7 +1473,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "M\u00d8"
+    "title": "M0",
+    "rank": 3
   },
   "871": {
     "_id": 871,
@@ -1338,7 +1483,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Mild High Club"
+    "title": "Mild High Club",
+    "rank": 6
   },
   "872": {
     "_id": 872,
@@ -1347,7 +1493,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Moon Boots"
+    "title": "Moon Boots",
+    "rank": 6
   },
   "873": {
     "_id": 873,
@@ -1356,7 +1503,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Moodymann"
+    "title": "Moodymann",
+    "rank": 6
   },
   "874": {
     "_id": 874,
@@ -1365,7 +1513,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "MHD"
+    "title": "MHD",
+    "rank": 6
   },
   "875": {
     "_id": 875,
@@ -1374,7 +1523,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Marian Hill"
+    "title": "Marian Hill",
+    "rank": 4
   },
   "876": {
     "_id": 876,
@@ -1383,7 +1533,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Miguel"
+    "title": "Miguel",
+    "rank": 6
   },
   "877": {
     "_id": 877,
@@ -1392,7 +1543,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Michael Mayer"
+    "title": "Michael Mayer",
+    "rank": 6
   },
   "878": {
     "_id": 878,
@@ -1401,7 +1553,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Motor City Drum Ensemble"
+    "title": "Motor City Drum Ensemble",
+    "rank": 5
   },
   "879": {
     "_id": 879,
@@ -1410,7 +1563,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Moses Sumney"
+    "title": "Moses Sumney",
+    "rank": 5
   },
   "880": {
     "_id": 880,
@@ -1419,7 +1573,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Kygo"
+    "title": "Kygo",
+    "rank": 2
   },
   "881": {
     "_id": 881,
@@ -1428,7 +1583,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Kyle Hall"
+    "title": "Kyle Hall",
+    "rank": 6
   },
   "882": {
     "_id": 882,
@@ -1437,7 +1593,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "LANY"
+    "title": "LANY",
+    "rank": 3
   },
   "883": {
     "_id": 883,
@@ -1446,7 +1603,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "L\u00c9ON"
+    "title": "LEON",
+    "rank": 5
   },
   "884": {
     "_id": 884,
@@ -1455,7 +1613,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "LION BABE"
+    "title": "LION BABE",
+    "rank": 6
   },
   "885": {
     "_id": 885,
@@ -1464,7 +1623,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Los \u00c1ngeles Azules"
+    "title": "Los Angeles Azules",
+    "rank": 3
   },
   "886": {
     "_id": 886,
@@ -1473,7 +1633,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Louis The Child"
+    "title": "Louis The Child",
+    "rank": 3
   },
   "887": {
     "_id": 887,
@@ -1482,7 +1643,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "LP"
+    "title": "LP",
+    "rank": 4
   },
   "888": {
     "_id": 888,
@@ -1491,7 +1653,8 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "Maceo Plex (Live)"
+    "title": "Maceo Plex (Live)",
+    "rank": 4
   },
   "889": {
     "_id": 889,
@@ -1500,6 +1663,7 @@
     "sort_order": null,
     "subtitle": null,
     "tags": [],
-    "title": "MAGIC GIANT"
+    "title": "MAGIC GIANT",
+    "rank": 6
   }
 }
