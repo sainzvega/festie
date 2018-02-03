@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ArtistListHeader = ({headerText}) => {
+const LineupHeader = ({headerText}) => {
     return (
         <h4 className="festival-day">
             <strong>{headerText}</strong>
@@ -8,4 +8,4 @@ const ArtistListHeader = ({headerText}) => {
     ) 
 };
 
-export default ArtistListHeader;
+export default LineupHeader;

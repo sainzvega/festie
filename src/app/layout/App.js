@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import ArtistList from 'features/artists/ArtistList';
+import FestivalDay from 'features/festival/FestivalDay';
 
 class App extends Component {
   render() {
-    const artistList = [
+    const artists = [
       { rank: 1, title: "Artist 1" },
       { rank: 2, title: "Artist 2" },
       { rank: 3, title: "Artist 3" },
@@ -16,10 +16,9 @@ class App extends Component {
     return (
       <div>
         <h1>Hello Festie</h1>
-        <ArtistList
-          headerText={headerText}
-          artists={artistList}
-        />
+        <FestivalDay headerText={headerText} artists={artists} />
+        <FestivalDay headerText={headerText} artists={artists} />
+        <FestivalDay headerText={headerText} artists={artists} />
       </div>
     );
   }

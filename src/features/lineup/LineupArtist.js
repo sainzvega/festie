@@ -1,7 +1,6 @@
 import React from 'react';
 
-const determine
-const Artist = (props) => {
+const LineupArtist = (props) => {
     const { rank, title } = props;
 
     return (
@@ -12,4 +11,4 @@ const Artist = (props) => {
     )
 };
 
-export default Artist;
+export default LineupArtist;
