@@ -5,7 +5,7 @@ import LineupList from 'features/lineup/LineupList';
 const FestivalDay = (props) => {
     const { headerText, artists } = props;
     return (
-        <div>
+        <div className="max-width">
             <LineupHeader headerText={headerText} />
             <LineupList artists={artists} />
         </div>
