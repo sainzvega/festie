@@ -1,14 +1,31 @@
 import React from 'react';
+import { map } from 'lodash';
 
-const LineupArtist = (props) => {
-    const { rank, title } = props;
-
+export const LineupArtist = (props) => {
+    const { artistGroup, artistRank } = props;
+    const className = `text-${artistRank}`;
     return (
-        <div>
-            <span>{rank}</span>
-            <span>{title}</span>
+        <span className={className}>
+            {
+                map(artistGroup, artist => {
+                    const { title } = artist;
+                    return (
+                        <a href="#" title={title}>
+                            <span>{title}</span>
+                            <span class="bullet">•</span>
+                        </a>
+                    );
+                })
+            }
+        </span>
+    );
+};
+
+export const LineupHeadLiner = (props) => {
+    const { title } = props;
+    return (
+        <div className="text-1">
+            <a href="#" title={title}>{title}</a>
         </div>
     )
 };
-
-export default LineupArtist;

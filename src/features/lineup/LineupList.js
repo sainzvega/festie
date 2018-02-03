@@ -1,15 +1,25 @@
 import React from 'react';
-import LineupArtist from './LineupArtist';
+import { groupBy, map } from 'lodash';
+
+import { LineupArtist, LineupHeadLiner } from './LineupArtist';
+
+const mapArtist = (artists) => {
+    const groupedArtist = groupBy(artists, 'rank');
+    return map(groupedArtist, (artistGroup) => {
+        const firstArtist = artistGroup[0];
+        const { rank } = firstArtist;
+        if (rank === 1)
+            return <LineupHeadLiner {...firstArtist} />
+        else
+            return <LineupArtist artistGroup={artistGroup} artistRank={rank} />
+    });
+};
 
 const LineupList = (props) => {
     const { artists } = props;
     return (
         <section>
-            {
-                artists.map(artist => {
-                    return <LineupArtist {...artist} />
-                })
-            }
+            {mapArtist(artists)}
         </section>
     );
 };
