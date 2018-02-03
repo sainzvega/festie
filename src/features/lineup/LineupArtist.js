@@ -8,11 +8,11 @@ export const LineupArtist = (props) => {
         <span className={className}>
             {
                 map(artistGroup, artist => {
-                    const { title } = artist;
+                    const { title, _id } = artist;
                     return (
-                        <a href="#" title={title}>
+                        <a key={_id} href="#" title={title}>
                             <span>{title}</span>
-                            <span class="bullet">•</span>
+                            <span className="bullet">•</span>
                         </a>
                     );
                 })

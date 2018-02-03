@@ -9,9 +9,9 @@ const mapArtist = (artists) => {
         const firstArtist = artistGroup[0];
         const { rank } = firstArtist;
         if (rank === 1)
-            return <LineupHeadLiner {...firstArtist} />
+            return <LineupHeadLiner key={rank} {...firstArtist} />
         else
-            return <LineupArtist artistGroup={artistGroup} artistRank={rank} />
+            return <LineupArtist key={rank} artistGroup={artistGroup} artistRank={rank} />
     });
 };
 
