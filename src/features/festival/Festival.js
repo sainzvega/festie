@@ -1,71 +1,40 @@
-import React from 'react';
+import React, { Component } from 'react';
 import FestivalHeader from 'features/festival/FestivalHeader'
 import FestivalDay from 'features/festival/FestivalDay';
+import { fetchArtists } from 'api/artists';
 
-const Festival = () => {
-    const artists = [
-        { rank: 1, title: "Artist 1" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 2, title: "Artist 2" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 3, title: "Artist 3" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 4, title: "Artist 4" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 5, title: "Artist 5" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-        { rank: 6, title: "Artist 6" },
-    ];
+export class Festival extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            artists: [],
+            headerText: 'Festival Day'
+        };
+    }
 
-    const headerText1 = "Day 1";
-    const headerText2 = "Day 2";
-    const headerText3 = "Day 3";
+    componentDidMount() {
+        const artists = fetchArtists();
+        this.setState({ artists });
+    }
 
-    return (
-        <div className="max-width">
-            <FestivalHeader />
-            <br />
-            <br />
-            <FestivalDay headerText={headerText1} artists={artists} />
-            <br />
-            <br />
-            <FestivalDay headerText={headerText2} artists={artists} />
-            <br />
-            <br />
-            <FestivalDay headerText={headerText3} artists={artists} />
-        </div>
-    );
-};
+    render() {
+        const { artists, headerText } = this.state;
+
+        return (
+            <div className="max-width">
+                <FestivalHeader />
+                <br />
+                <br />
+                <FestivalDay headerText={headerText} artists={artists} />
+                <br />
+                <br />
+                <FestivalDay headerText={headerText} artists={artists} />
+                <br />
+                <br />
+                <FestivalDay headerText={headerText} artists={artists} />
+            </div>
+        );
+    }
+}
 
 export default Festival;
