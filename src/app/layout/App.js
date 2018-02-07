@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import AppHeader from './AppHeader';
 import Festival from 'features/festival/Festival';
-import FestivalInfo from 'features/festival/FestivalInfo';
+import Artist from 'features/artist/Artist';
+
 class App extends Component {
   render() {
     return (
       <div>
         <AppHeader />
-        <main>
-          <br />
-          <br />
-          <Festival />
-        </main>
-        <FestivalInfo />
+        <Router>
+          <Switch>
+            <Route exact path='/' component={Festival} />
+            <Route path='/artist/:id?' component={Artist} />
+          </Switch>
+        </Router>
       </div>
     );
   }

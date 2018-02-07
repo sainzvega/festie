@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import FestivalHeader from 'features/festival/FestivalHeader'
 import FestivalDay from 'features/festival/FestivalDay';
+import FestivalInfo from 'features/festival/FestivalInfo';
 import { getArtistsByShowDate } from 'api/artists';
 
 export class Festival extends Component {
@@ -27,18 +28,23 @@ export class Festival extends Component {
         const { artistsDay1, artistsDay2, artistsDay3, headerDay1, headerDay2, headerDay3 } = this.state;
 
         return (
-            <div className="max-width">
-                <FestivalHeader />
+            <main>
                 <br />
                 <br />
-                <FestivalDay headerText={headerDay1} artists={artistsDay1} />
-                <br />
-                <br />
-                <FestivalDay headerText={headerDay2} artists={artistsDay2} />
-                <br />
-                <br />
-                <FestivalDay headerText={headerDay3} artists={artistsDay3} />
-            </div>
+                <div className="max-width">
+                    <FestivalHeader />
+                    <br />
+                    <br />
+                    <FestivalDay headerText={headerDay1} artists={artistsDay1} />
+                    <br />
+                    <br />
+                    <FestivalDay headerText={headerDay2} artists={artistsDay2} />
+                    <br />
+                    <br />
+                    <FestivalDay headerText={headerDay3} artists={artistsDay3} />
+                </div>
+                <FestivalInfo />
+            </main>
         );
     }
 }
