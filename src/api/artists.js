@@ -16,3 +16,7 @@ export const getArtistsByShowDate = (date) => {
 
     return filteredArtist;
 };
+
+export const getArtistsById = (artist_id) => {
+    return artists[artist_id];
+};

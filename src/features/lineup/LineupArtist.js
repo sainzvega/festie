@@ -1,5 +1,6 @@
 import React from 'react';
 import { map } from 'lodash';
+import { Link } from 'react-router-dom';
 
 export const LineupArtist = (props) => {
     const { artistGroup, artistRank } = props;
@@ -10,10 +11,10 @@ export const LineupArtist = (props) => {
                 map(artistGroup, artist => {
                     const { title, _id } = artist;
                     return (
-                        <a key={_id} href="#" title={title}>
+                        <Link key={_id} to={`/artist/${_id}`} title={title}>
                             <span>{title}</span>
                             <span className="bullet">•</span>
-                        </a>
+                        </Link>
                     );
                 })
             }
@@ -22,10 +23,12 @@ export const LineupArtist = (props) => {
 };
 
 export const LineupHeadLiner = (props) => {
-    const { title } = props;
+    const { title, _id } = props;
     return (
         <div className="text-1">
-            <a href="#" title={title}>{title}</a>
+            <Link key={_id} to={`/artist/${_id}`} title={title}>
+                {title}
+            </Link>
         </div>
     )
 };

@@ -7,15 +7,15 @@ import Artist from 'features/artist/Artist';
 class App extends Component {
   render() {
     return (
-      <div>
-        <AppHeader />
-        <Router>
+      <Router>
+        <div>
+          <AppHeader />
           <Switch>
             <Route exact path='/' component={Festival} />
-            <Route path='/artist/:id?' component={Artist} />
+            <Route path='/artist/:_id?' component={Artist} />
           </Switch>
-        </Router>
-      </div>
+        </div>
+      </Router>
     );
   }
 }
