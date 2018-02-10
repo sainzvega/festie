@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FestivalHeader from 'features/festival/FestivalHeader'
 import FestivalDay from 'features/festival/FestivalDay';
-import FestivalInfo from 'features/festival/FestivalInfo';
+import FestivalData from 'features/festival/FestivalData';
 import { getArtistsByShowDate } from 'api/artists';
 
 export class Festival extends Component {
@@ -43,7 +43,7 @@ export class Festival extends Component {
                     <br />
                     <FestivalDay headerText={headerDay3} artists={artistsDay3} />
                 </div>
-                <FestivalInfo />
+                <FestivalData />
             </main>
         );
     }
