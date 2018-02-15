@@ -13,7 +13,7 @@ export const LineupArtist = (props) => {
                     return (
                         <Link key={_id} to={`/artist/${_id}`} title={title}>
                             <span>{title}</span>
-                            <span className="bullet">•</span>
+                            <span className="bullet">&nbsp;•&nbsp;</span>
                         </Link>
                     );
                 })

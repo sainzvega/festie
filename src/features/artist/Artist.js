@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { getArtistsById } from 'api/artists';
+import ArtistRecommended from './ArtistRecommended';
+import ArtistInfo from './ArtistInfo';
 
 export class Artist extends Component {
     constructor(props) {
@@ -19,12 +21,16 @@ export class Artist extends Component {
         return <div>TEMP LOADING</div>;
     }
 
-    renderArtist(artist) {
-        const { title } = artist;
+    renderArtist(artist) {                
         return (
             <div>
-                <h1>Page for: {title}</h1>
-            </div>
+                <br />
+                <br />
+                <div className="flex-row">                
+                    <ArtistRecommended artist={artist}/>
+                    <ArtistInfo artist={artist}/>
+                </div>
+            </div>            
         );
     }
 
