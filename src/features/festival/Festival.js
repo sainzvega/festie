@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FestivalHeader from 'features/festival/FestivalHeader'
+import FestivalHeader from 'features/festival/FestivalHeader';
 import FestivalDay from 'features/festival/FestivalDay';
 import FestivalData from 'features/festival/FestivalData';
 import { getArtistsByShowDate } from 'api/artists';
@@ -35,15 +35,17 @@ export class Festival extends Component {
                     <FestivalHeader />
                     <br />
                     <br />
-                    <FestivalDay headerText={headerDay1} artists={artistsDay1} />
+                    <FestivalDay headerText={headerDay1} artistList={artistsDay1} />
                     <br />
                     <br />
-                    <FestivalDay headerText={headerDay2} artists={artistsDay2} />
+                    <FestivalDay headerText={headerDay2} artistList={artistsDay2} />
                     <br />
                     <br />
-                    <FestivalDay headerText={headerDay3} artists={artistsDay3} />
+                    <FestivalDay headerText={headerDay3} artistList={artistsDay3} />
                 </div>
-                <FestivalData />
+                <br />
+                <br />
+                <FestivalData />                
             </main>
         );
     }
