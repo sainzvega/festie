@@ -2,23 +2,23 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
-const LineupArtist = (props) => {
+const LineupHeadliner = (props) => {
+    // TODO: Change to param from _id to title
     const { artist: { title, _id } } = props;
     return (
-        <span>
+        <div className="text-1">
             <Link key={_id} to={`/artist/${_id}`} title={title}>
                 {title}
             </Link>
-            <span className="bullet">&nbsp;•&nbsp;</span>
-        </span>
+        </div>
     );
 };
 
-LineupArtist.propTypes = {
+LineupHeadliner.propTypes = {
     artist: PropTypes.shape({
         title: PropTypes.string,
         _id: PropTypes.number
     }).isRequired
 };
 
-export default LineupArtist;
+export default LineupHeadliner;

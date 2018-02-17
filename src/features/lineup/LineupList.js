@@ -1,27 +1,30 @@
 import React from 'react';
 import { groupBy, map } from 'lodash';
+import LineupArtistGroup from './LineupArtistGroup';
+import LineupHeadliner from './LineupHeadliner';
+import PropTypes from 'prop-types';
 
-import { LineupArtist, LineupHeadLiner } from './LineupArtist';
-
-const mapArtist = (artists) => {
-    const groupedArtist = groupBy(artists, 'rank');
-    return map(groupedArtist, (artistGroup) => {
-        const firstArtist = artistGroup[0];
-        const { rank } = firstArtist;
+const mapArtists = (artists) => {
+    const groupedArtist = groupBy(artists, 'rank');    
+    return map(groupedArtist, (artistGroup, rank) => {        
         if (rank === 1)
-            return <LineupHeadLiner key={rank} {...firstArtist} />
+            return <LineupHeadliner key={rank} artist={artistGroup[0]} />
         else
-            return <LineupArtist key={rank} artistGroup={artistGroup} artistRank={rank} />
+            return <LineupArtistGroup key={rank} artistGroup={artistGroup} artistGroupRank={rank} />
     });
 };
 
 const LineupList = (props) => {
-    const { artists } = props;
+    const { artistList } = props;
     return (
         <section>
-            {mapArtist(artists)}
+            {mapArtists(artistList)}
         </section>
     );
+};
+
+LineupList.propTypes = {
+    artistList: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 
 export default LineupList;

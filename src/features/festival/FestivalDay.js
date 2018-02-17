@@ -3,13 +3,13 @@ import LineupHeader from 'features/lineup/LineupHeader';
 import LineupList from 'features/lineup/LineupList';
 
 const FestivalDay = (props) => {
-    const { headerText, artists } = props;
+    const { headerText, artistList } = props;
     return (
         <section>
             <LineupHeader headerText={headerText} />
-            <LineupList artists={artists} />
+            <LineupList artistList={artistList} />
         </section>
     );
-}
+};
 
 export default FestivalDay;
