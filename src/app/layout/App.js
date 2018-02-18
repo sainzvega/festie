@@ -12,7 +12,7 @@ class App extends Component {
           <AppHeader />
           <Switch>
             <Route exact path='/' component={Festival} />
-            <Route path='/artist/:_id?' component={Artist} />
+            <Route path='/artist/:artistName' component={Artist} />
           </Switch>
         </div>
       </Router>
