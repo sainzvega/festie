@@ -4,10 +4,10 @@ import PropTypes from 'prop-types';
 
 const LineupHeadliner = (props) => {
     // TODO: Change to param from _id to title
-    const { artist: { title, _id } } = props;
+    const { artist: { title, _id, slug } } = props;
     return (
         <div className="text-1">
-            <Link key={_id} to={`/artist/${_id}`} title={title}>
+            <Link key={_id} to={`/artist/${slug}`} title={title}>
                 {title}
             </Link>
         </div>
