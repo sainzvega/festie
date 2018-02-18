@@ -7,7 +7,8 @@
             "deep indie r&b",
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0ea1cbf07f7821e31c87a230b9712c144f212b69",
                 "width": 640
@@ -24,7 +25,8 @@
             }
         ],
         "spotify_id": "1U1el3k54VvEUzo3ybLPlM",
-        "multiple": false
+        "multiple": false,
+        "slug": "kali-uchis"
     },
     "724": {
         "_id": 724,
@@ -33,7 +35,8 @@
         "genres": [
             "house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/05eb49f16f8a547561cc852e16d1de1e12efc4a4",
                 "width": 640
@@ -50,7 +53,8 @@
             }
         ],
         "spotify_id": "4FN8WHqUbwkd97WEjoCu7B",
-        "multiple": false
+        "multiple": false,
+        "slug": "justin-martin"
     },
     "725": {
         "_id": 725,
@@ -59,7 +63,8 @@
         "genres": [
             "new rave"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/802591c8a461d4eac4ed46b2272f0f2aa6eeaa49",
                 "width": 640
@@ -76,7 +81,8 @@
             }
         ],
         "spotify_id": "59oA5WbbQvomJz2BuRG071",
-        "multiple": false
+        "multiple": false,
+        "slug": "jungle"
     },
     "726": {
         "_id": 726,
@@ -88,7 +94,8 @@
             "tech house",
             "techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6733381099178c59620eafea714712eb5ee9182f",
                 "width": 640
@@ -105,7 +112,8 @@
             }
         ],
         "spotify_id": "7onsqSWPufMm5ZnUCECDpf",
-        "multiple": false
+        "multiple": false,
+        "slug": "joseph-capriati"
     },
     "727": {
         "_id": 727,
@@ -118,7 +126,8 @@
             "indietronica",
             "neo-psychedelic"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/f0f13bf92fa233117cf193a867e9a9e96c6fc765",
                 "width": 640
@@ -135,7 +144,8 @@
             }
         ],
         "spotify_id": "4wyNyxs74Ux8UIDopNjIai",
-        "multiple": false
+        "multiple": false,
+        "slug": "king-krule"
     },
     "728": {
         "_id": 728,
@@ -149,7 +159,8 @@
             "neo soul",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/8224ba870b10fcbd5aba23505ef23890b55c259c",
                 "width": 640
@@ -166,7 +177,8 @@
             }
         ],
         "spotify_id": "1U0sIzpRtDkvu1hXXzxh60",
-        "multiple": false
+        "multiple": false,
+        "slug": "kelela"
     },
     "729": {
         "_id": 729,
@@ -179,7 +191,8 @@
             "indie jazz",
             "jazz"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c41776db67767185c237828e502070c7552f621d",
                 "width": 640
@@ -196,7 +209,8 @@
             }
         ],
         "spotify_id": "6HQYnRM4OzToCYPpVBInuU",
-        "multiple": false
+        "multiple": false,
+        "slug": "kamasi-washington"
     },
     "730": {
         "_id": 730,
@@ -208,7 +222,8 @@
             "indie r&b",
             "west coast trap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/616e2e5447d1e6f00a4e97331ee1a433a3bdbe34",
                 "width": 640
@@ -225,7 +240,8 @@
             }
         ],
         "spotify_id": "3XVpDdKav6C6zwlDXPhMEO",
-        "multiple": false
+        "multiple": false,
+        "slug": "kamaiyah"
     },
     "731": {
         "_id": 731,
@@ -238,7 +254,8 @@
             "tech house",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e4fdbcb8e692a8323dc6f62d468ce11a01f2d3bc",
                 "width": 640
@@ -255,14 +272,16 @@
             }
         ],
         "spotify_id": "2D9Oe8R9UhbMvFAsMJpXj0",
-        "multiple": false
+        "multiple": false,
+        "slug": "kolsch"
     },
     "732": {
         "_id": 732,
         "title": "Knox Fortune",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e4e53b1d0ab1f7b68138e4c3f49064d9e5f03625",
                 "width": 640
@@ -279,7 +298,8 @@
             }
         ],
         "spotify_id": "49O0SPoCoTiK2Nn2tOaHyU",
-        "multiple": false
+        "multiple": false,
+        "slug": "knox-fortune"
     },
     "733": {
         "_id": 733,
@@ -289,7 +309,8 @@
             "deep house",
             "float house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/f2c355931fa4219bf27aae987ba1934445a8f2a4",
                 "width": 640
@@ -306,7 +327,8 @@
             }
         ],
         "spotify_id": "2nNEvsyPzLwKVZrfkwLpNK",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-black-madonna"
     },
     "734": {
         "_id": 734,
@@ -317,7 +339,8 @@
             "indie rock",
             "modern rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/a45eeb4eb1bbf56f3cee1da8dfb9904ab425ea0c",
                 "width": 640
@@ -334,7 +357,8 @@
             }
         ],
         "spotify_id": "2D4FOOOtWycb3Aw9nY5n3c",
-        "multiple": false
+        "multiple": false,
+        "slug": "declan-mckenna"
     },
     "735": {
         "_id": 735,
@@ -346,7 +370,8 @@
             "moombahton",
             "vapor twitch"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/1aab1fe3ced941849a9cece2acbb28472eab23a8",
                 "width": 640
@@ -363,7 +388,8 @@
             }
         ],
         "spotify_id": "0Y0QSi6lz1bPik5Ffjr8sd",
-        "multiple": false
+        "multiple": false,
+        "slug": "ekali"
     },
     "736": {
         "_id": 736,
@@ -373,7 +399,8 @@
             "edm",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/39d9e61f7aed9ae01334b391702c7c8b1871743e",
                 "width": 640
@@ -390,7 +417,8 @@
             }
         ],
         "spotify_id": "7vk5e3vY1uw9plTHJAMwjN",
-        "multiple": false
+        "multiple": false,
+        "slug": "alan-walker"
     },
     "737": {
         "_id": 737,
@@ -406,7 +434,8 @@
             "pop",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0b0af55ebc27821f3136baa530ee76949e967add",
                 "width": 640
@@ -423,7 +452,8 @@
             }
         ],
         "spotify_id": "1LOB7jTeEV14pHai6EXSzF",
-        "multiple": false
+        "multiple": false,
+        "slug": "cash-cash"
     },
     "738": {
         "_id": 738,
@@ -435,7 +465,8 @@
             "j-rock",
             "visual kei"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/17a35fc1452fe5e9a1881f5c65b0f984153d85e2",
                 "width": 640
@@ -452,7 +483,8 @@
             }
         ],
         "spotify_id": "4VrqQQy6X0hlMtqY5gp6Wx",
-        "multiple": false
+        "multiple": false,
+        "slug": "x-japan"
     },
     "739": {
         "_id": 739,
@@ -464,7 +496,8 @@
             "escape room",
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5bc18ce339f9bcb87fb104c2bf49f556b09532ef",
                 "width": 640
@@ -481,7 +514,8 @@
             }
         ],
         "spotify_id": "2RqrWplViWHSGLzlhmDcbt",
-        "multiple": false
+        "multiple": false,
+        "slug": "yaeji"
     },
     "740": {
         "_id": 740,
@@ -494,7 +528,8 @@
             "tropical house",
             "vapor twitch"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/268321f5fbc5c7c774fea64fc5003a18b1962dc9",
                 "width": 640
@@ -511,7 +546,8 @@
             }
         ],
         "spotify_id": "0vqJkZ0RpLZixt3lTmD8vP",
-        "multiple": false
+        "multiple": false,
+        "slug": "whethan"
     },
     "741": {
         "_id": 741,
@@ -521,7 +557,8 @@
             "afrobeats",
             "azonto"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/7f6d533c87f94497644e0195ffb5d908e95928d2",
                 "width": 640
@@ -538,7 +575,8 @@
             }
         ],
         "spotify_id": "3tVQdUvClmAT7URs9V3rsp",
-        "multiple": false
+        "multiple": false,
+        "slug": "wizkid"
     },
     "742": {
         "_id": 742,
@@ -549,7 +587,8 @@
             "neo mellow",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/7d186c3a80955b82a8cc46fe86bdf305478629e8",
                 "width": 640
@@ -566,7 +605,8 @@
             }
         ],
         "spotify_id": "10exVja0key0uqUkk6LJRT",
-        "multiple": false
+        "multiple": false,
+        "slug": "vance-joy"
     },
     "743": {
         "_id": 743,
@@ -578,7 +618,8 @@
             "electronic trap",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/4ff48c6e0abf049a268b211c4e20ad4acd87ff76",
                 "width": 640
@@ -595,7 +636,8 @@
             }
         ],
         "spotify_id": "45eNHdiiabvmbp4erw26rg",
-        "multiple": false
+        "multiple": false,
+        "slug": "illenium"
     },
     "744": {
         "_id": 744,
@@ -610,7 +652,8 @@
             "minimal techno",
             "tech house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/9a1ae80e31c649fcfd2c9239364e6722a5d263c0",
                 "width": 640
@@ -627,14 +670,16 @@
             }
         ],
         "spotify_id": "4admDxmnri5Zco0xYrJ0ji",
-        "multiple": false
+        "multiple": false,
+        "slug": "jamie-jones"
     },
     "745": {
         "_id": 745,
         "title": "The Marias",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/054a670903a48b09bfa1c7d1b481d1a4be0a9820",
                 "width": 640
@@ -651,7 +696,8 @@
             }
         ],
         "spotify_id": "2sSGPbdZJkaSE2AbcGOACx",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-marias"
     },
     "746": {
         "_id": 746,
@@ -672,7 +718,8 @@
             "nu gaze",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5145c728273eb3d6aef68d37f87f32da23f9e9c3",
                 "width": 640
@@ -689,7 +736,8 @@
             }
         ],
         "spotify_id": "0p5axeJsbtTCXBrRVoKjwu",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-drums"
     },
     "747": {
         "_id": 747,
@@ -704,7 +752,8 @@
             "trap music",
             "underground hip hop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6fe653e82f42b7878e0d113071e50edd2ca0cb5c",
                 "width": 640
@@ -721,7 +770,8 @@
             }
         ],
         "spotify_id": "68kEuyFKyqrdQQLLsmiatm",
-        "multiple": false
+        "multiple": false,
+        "slug": "vince-staples"
     },
     "748": {
         "_id": 748,
@@ -749,7 +799,8 @@
             "nu gaze",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1198,
                 "url": "https://i.scdn.co/image/af13a858e5e047c3433e151f7fc3c9d8bd3c0598",
                 "width": 899
@@ -771,7 +822,8 @@
             }
         ],
         "spotify_id": "4R073T3AVJKqAsbzLmLW9u",
-        "multiple": false
+        "multiple": false,
+        "slug": "john-maus"
     },
     "749": {
         "_id": 749,
@@ -783,7 +835,8 @@
             "neo soul",
             "r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/7c930e4e48d01a1e5efbd525f5d2feb9cf1bd364",
                 "width": 640
@@ -800,7 +853,8 @@
             }
         ],
         "spotify_id": "1CoZyIx7UvdxT5c8UkMzHd",
-        "multiple": false
+        "multiple": false,
+        "slug": "jorja-smith"
     },
     "750": {
         "_id": 750,
@@ -812,7 +866,8 @@
             "neo soul",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0b4f943e6abe5ff0dd2e2d1e5aef8cf82ef61408",
                 "width": 640
@@ -829,7 +884,8 @@
             }
         ],
         "spotify_id": "5Mq7iqCWBzofK39FBqblNc",
-        "multiple": false
+        "multiple": false,
+        "slug": "jessie-ware"
     },
     "751": {
         "_id": 751,
@@ -838,7 +894,8 @@
         "genres": [
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/c13298e2dce4bec90b2059a3f71544e1398b2bbc",
                 "width": 1000
@@ -860,7 +917,8 @@
             }
         ],
         "spotify_id": "4TsHKU8l8Wq7n7OPVikirn",
-        "multiple": false
+        "multiple": false,
+        "slug": "jidenna"
     },
     "752": {
         "_id": 752,
@@ -882,7 +940,8 @@
             "nu gaze",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/bbd086624a222bb8a528abea07acc91ff4124cb4",
                 "width": 640
@@ -899,7 +958,8 @@
             }
         ],
         "spotify_id": "7MoIc5s9KXolCBH1fy9kkw",
-        "multiple": false
+        "multiple": false,
+        "slug": "japanese-breakfast"
     },
     "753": {
         "_id": 753,
@@ -913,7 +973,8 @@
             "synthpop",
             "vintage french electronic"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/b52c1d09b0fb64ab4a88b84f3166dc5886826be1",
                 "width": 1000
@@ -935,7 +996,8 @@
             }
         ],
         "spotify_id": "5MhLmv7GgyjbxGqiIGasvT",
-        "multiple": false
+        "multiple": false,
+        "slug": "jean-michel-jarre"
     },
     "754": {
         "_id": 754,
@@ -945,7 +1007,8 @@
             "deep indie r&b",
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/636a328f4336e833a5886fd564a3150c7a4b9290",
                 "width": 640
@@ -962,7 +1025,8 @@
             }
         ],
         "spotify_id": "0AepkoQhYvkjEzzwIcGxdV",
-        "multiple": false
+        "multiple": false,
+        "slug": "jacob-banks"
     },
     "755": {
         "_id": 755,
@@ -971,7 +1035,8 @@
         "genres": [
             "electronic"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/ff80e8160d1c0025dc12c28fafca7c4f37736bc4",
                 "width": 640
@@ -988,7 +1053,8 @@
             }
         ],
         "spotify_id": "6J7biCazzYhU3gM9j1wfid",
-        "multiple": false
+        "multiple": false,
+        "slug": "jamiroquai"
     },
     "756": {
         "_id": 756,
@@ -998,7 +1064,8 @@
             "etherpop",
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/2ede8894dc37695f2007a4b116e8e42b5ec95414",
                 "width": 640
@@ -1015,7 +1082,8 @@
             }
         ],
         "spotify_id": "5Q8NEHGX70m1kkojbtm8wa",
-        "multiple": false
+        "multiple": false,
+        "slug": "ibeyi"
     },
     "757": {
         "_id": 757,
@@ -1026,7 +1094,8 @@
             "chicago house",
             "hip house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0e06027ec7b6d65f31c22209f98a39e4898b5602",
                 "width": 640
@@ -1043,7 +1112,8 @@
             }
         ],
         "spotify_id": "1VQgvnkH9rOB2YkNr1ovuB",
-        "multiple": false
+        "multiple": false,
+        "slug": "jackmaster"
     },
     "758": {
         "_id": 758,
@@ -1053,7 +1123,8 @@
             "trap music",
             "dwn trap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/aab35395484fa57db77a1a6e89b0777ffab13311",
                 "width": 640
@@ -1070,7 +1141,8 @@
             }
         ],
         "spotify_id": "1TjmRAj3JWRf7feuDKMrXM",
-        "multiple": false
+        "multiple": false,
+        "slug": "kittens"
     },
     "759": {
         "_id": 759,
@@ -1079,7 +1151,8 @@
         "genres": [],
         "images": [],
         "spotify_id": "4b0s5L5HkUI6jrFwEDuTur",
-        "multiple": false
+        "multiple": false,
+        "slug": "jason-bentley"
     },
     "760": {
         "_id": 760,
@@ -1089,7 +1162,8 @@
             "pop",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/3fc1d32020788a97662a9d089ce82df4e622f219",
                 "width": 640
@@ -1106,7 +1180,8 @@
             }
         ],
         "spotify_id": "246dkjvS1zLTtiykXe5h60",
-        "multiple": false
+        "multiple": false,
+        "slug": "post-malone"
     },
     "761": {
         "_id": 761,
@@ -1117,7 +1192,8 @@
             "rap",
             "trap music"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/29180f7f9c945e04de9b39cb5188f6a9171ae485",
                 "width": 640
@@ -1134,7 +1210,8 @@
             }
         ],
         "spotify_id": "6oMuImdp5ZcFhWP0ESe6mG",
-        "multiple": false
+        "multiple": false,
+        "slug": "migos"
     },
     "762": {
         "_id": 762,
@@ -1146,7 +1223,8 @@
             "r&b",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e1e46c441024525643a19402b3a12188de219420",
                 "width": 640
@@ -1163,7 +1241,8 @@
             }
         ],
         "spotify_id": "7tYKF4w9nC0nq9CsPZTHyP",
-        "multiple": false
+        "multiple": false,
+        "slug": "sza"
     },
     "763": {
         "_id": 763,
@@ -1177,7 +1256,8 @@
             "electronic trap",
             "moombahton"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/fb847930393b0f397fc054233c2d7cc6f23d0e39",
                 "width": 640
@@ -1194,14 +1274,16 @@
             }
         ],
         "spotify_id": "4aKdmOXdUKX07HVd3sGgzw",
-        "multiple": false
+        "multiple": false,
+        "slug": "rezz"
     },
     "764": {
         "_id": 764,
         "title": "AURORA",
         "rank": 5,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5ba86e815cd5fb386bfaed541b4c434b0d7ec547",
                 "width": 640
@@ -1218,7 +1300,8 @@
             }
         ],
         "spotify_id": "1WgXqy2Dd70QQOU7Ay074N",
-        "multiple": false
+        "multiple": false,
+        "slug": "aurora"
     },
     "765": {
         "_id": 765,
@@ -1240,7 +1323,8 @@
             "singer-songwriter",
             "stomp and holler"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/3959b2f444e89a1e6b50cb196a0ec020391a97ce",
                 "width": 640
@@ -1257,7 +1341,8 @@
             }
         ],
         "spotify_id": "6mKqFxGMS5TGDZI3XkT5Rt",
-        "multiple": false
+        "multiple": false,
+        "slug": "angel-olsen"
     },
     "766": {
         "_id": 766,
@@ -1269,7 +1354,8 @@
             "pop rap",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/72699880966c08025df0beb443e18dac0c0e0580",
                 "width": 640
@@ -1286,7 +1372,8 @@
             }
         ],
         "spotify_id": "3Gm5F95VdRxW3mqCn8RPBJ",
-        "multiple": false
+        "multiple": false,
+        "slug": "amine"
     },
     "767": {
         "_id": 767,
@@ -1307,7 +1394,8 @@
             "preverb",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/098b97354be95aa4e5f3cabfd66870f8252984fa",
                 "width": 640
@@ -1324,7 +1412,8 @@
             }
         ],
         "spotify_id": "3kzwYV3OCB010YfXMF0Avt",
-        "multiple": false
+        "multiple": false,
+        "slug": "alvvays"
     },
     "768": {
         "_id": 768,
@@ -1334,7 +1423,8 @@
             "indie rock",
             "modern rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/7ac54cbec2f1b3f5f1b7f6fc23acb9d00c70fb51",
                 "width": 640
@@ -1351,7 +1441,8 @@
             }
         ],
         "spotify_id": "3XHO7cRUPCLOr6jwp8vsx5",
-        "multiple": false
+        "multiple": false,
+        "slug": "alt-j"
     },
     "769": {
         "_id": 769,
@@ -1366,7 +1457,8 @@
             "escape room",
             "moombahton"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5a59252041fff0b788fd670a77260346062ad9d8",
                 "width": 640
@@ -1383,7 +1475,8 @@
             }
         ],
         "spotify_id": "11gWrKZMBsGQWmobv3oNfW",
-        "multiple": false
+        "multiple": false,
+        "slug": "alison-wonderland"
     },
     "770": {
         "_id": 770,
@@ -1396,7 +1489,8 @@
             "pop",
             "r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/8500d1f691d34a119aaf039eeebdfa58992e5059",
                 "width": 640
@@ -1413,7 +1507,8 @@
             }
         ],
         "spotify_id": "6hfwwpXqZPRC9CsKI7qtv1",
-        "multiple": false
+        "multiple": false,
+        "slug": "alina-baraz"
     },
     "771": {
         "_id": 771,
@@ -1428,7 +1523,8 @@
             "house",
             "moombahton"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/dea0d6e234d368cab80b87800772603e5b4376c0",
                 "width": 640
@@ -1445,7 +1541,8 @@
             }
         ],
         "spotify_id": "6EqFMCnVGBRNmwPlk2f3Uc",
-        "multiple": false
+        "multiple": false,
+        "slug": "ac-slater"
     },
     "772": {
         "_id": 772,
@@ -1462,7 +1559,8 @@
             "rap rock",
             "rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/7802c0c19c9d46280366f7530cb28a7be25b1b90",
                 "width": 640
@@ -1479,7 +1577,8 @@
             }
         ],
         "spotify_id": "4DFhHyjvGYa9wxdHUjtDkc",
-        "multiple": false
+        "multiple": false,
+        "slug": "a-perfect-circle"
     },
     "773": {
         "_id": 773,
@@ -1493,7 +1592,8 @@
             "southern hip hop",
             "trap music"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/671d913582c2669a58205ce8e23fd89e190d7687",
                 "width": 640
@@ -1510,7 +1610,8 @@
             }
         ],
         "spotify_id": "4IVAbR2w4JJNJDDRFP3E83",
-        "multiple": false
+        "multiple": false,
+        "slug": "6lack"
     },
     "774": {
         "_id": 774,
@@ -1519,7 +1620,8 @@
         "genres": [
             "deep australian indie"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/231206c4aafcd3454064e446cd6b766dcc328fe2",
                 "width": 640
@@ -1536,7 +1638,8 @@
             }
         ],
         "spotify_id": "6zVFRTB0Y1whWyH7ZNmywf",
-        "multiple": false
+        "multiple": false,
+        "slug": "tash-sultana"
     },
     "775": {
         "_id": 775,
@@ -1549,7 +1652,8 @@
             "moombahton",
             "vapor twitch"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/112883b5ef8a368e12c1d5e823cd5cb988c6d94f",
                 "width": 640
@@ -1566,7 +1670,8 @@
             }
         ],
         "spotify_id": "0tvpihdAsKiNnP6sWS3jUI",
-        "multiple": false
+        "multiple": false,
+        "slug": "troyboi"
     },
     "776": {
         "_id": 776,
@@ -1579,7 +1684,8 @@
             "indie r&b",
             "shimmer pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/161c5814dec9daab21b4ec563575628b11214472",
                 "width": 640
@@ -1596,7 +1702,8 @@
             }
         ],
         "spotify_id": "108ugtkRFQzP9nGgNiyERO",
-        "multiple": false
+        "multiple": false,
+        "slug": "hundred-waters"
     },
     "777": {
         "_id": 777,
@@ -1605,7 +1712,8 @@
         "genres": [
             "house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/45694b4a4268cefe4677af40c201b55c1f096f64",
                 "width": 640
@@ -1622,7 +1730,8 @@
             }
         ],
         "spotify_id": "7xUDwlnvFV4YU0OzPEF15w",
-        "multiple": false
+        "multiple": false,
+        "slug": "hito"
     },
     "778": {
         "_id": 778,
@@ -1632,7 +1741,8 @@
             "hip hop",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/26e10f3fd0573e87a83e6611428b01420865d1f9",
                 "width": 640
@@ -1649,7 +1759,8 @@
             }
         ],
         "spotify_id": "4V8LLVI7PbaPR0K2TGSxFF",
-        "multiple": false
+        "multiple": false,
+        "slug": "tyler-the-creator"
     },
     "779": {
         "_id": 779,
@@ -1665,7 +1776,8 @@
             "vapor twitch",
             "vaporwave"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/33d9a8aa44c595896392f018b9dc05bc184af6cf",
                 "width": 640
@@ -1682,7 +1794,8 @@
             }
         ],
         "spotify_id": "4kubsO16bEfCADaVUyoYb6",
-        "multiple": false
+        "multiple": false,
+        "slug": "giraffage"
     },
     "780": {
         "_id": 780,
@@ -1696,7 +1809,8 @@
             "southern hip hop",
             "trap music"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/29fa1dc766fba1ea3058eb6cebc25bf1d31b7161",
                 "width": 640
@@ -1713,7 +1827,8 @@
             }
         ],
         "spotify_id": "6vXTefBL93Dj5IqAWq6OTv",
-        "multiple": false
+        "multiple": false,
+        "slug": "french-montana"
     },
     "781": {
         "_id": 781,
@@ -1728,7 +1843,8 @@
             "pop",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/63c774fb68ef3dde8fac2421e185d38c52ef21f0",
                 "width": 640
@@ -1745,7 +1861,8 @@
             }
         ],
         "spotify_id": "4Ui2kfOqGujY81UcPrb5KE",
-        "multiple": false
+        "multiple": false,
+        "slug": "haim"
     },
     "782": {
         "_id": 782,
@@ -1754,7 +1871,8 @@
         "genres": [
             "modern blues"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/26953695e4d6ee1cdf95b7a56038c476643f1c21",
                 "width": 640
@@ -1771,7 +1889,8 @@
             }
         ],
         "spotify_id": "4NpFxQe2UvRCAjto3JqlSl",
-        "multiple": false
+        "multiple": false,
+        "slug": "greta-van-fleet"
     },
     "783": {
         "_id": 783,
@@ -1783,7 +1902,8 @@
             "pop",
             "post-teen pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/37faea935af9069688e361a40f27a4df5cb5af40",
                 "width": 640
@@ -1800,7 +1920,8 @@
             }
         ],
         "spotify_id": "3LjhVl7GzYsza1biQjTpaN",
-        "multiple": false
+        "multiple": false,
+        "slug": "hayley-kiyoko"
     },
     "784": {
         "_id": 784,
@@ -1810,7 +1931,8 @@
             "deep groove house",
             "house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/3ba0e01f96b604dfc6ed3640e4479dba9ab800df",
                 "width": 640
@@ -1827,7 +1949,8 @@
             }
         ],
         "spotify_id": "7sK4hnuUOXw6VStDw0q8NI",
-        "multiple": false
+        "multiple": false,
+        "slug": "hannah-wants"
     },
     "785": {
         "_id": 785,
@@ -1837,7 +1960,8 @@
             "modern rock",
             "post-grunge"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/43e06893715cb95b113264c9830fd66605164f8c",
                 "width": 640
@@ -1854,7 +1978,8 @@
             }
         ],
         "spotify_id": "2pqd3HsfsvcBGtHvPOg6eg",
-        "multiple": false
+        "multiple": false,
+        "slug": "highly-suspect"
     },
     "786": {
         "_id": 786,
@@ -1863,7 +1988,8 @@
         "genres": [
             "deep latin alternative"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e795c36830ba243c90a171a62b6c6dc1ca2bd3fa",
                 "width": 640
@@ -1880,14 +2006,16 @@
             }
         ],
         "spotify_id": "69qhRLDvsWJOhWGXXQ0lQQ",
-        "multiple": false
+        "multiple": false,
+        "slug": "helado-negro"
     },
     "787": {
         "_id": 787,
         "title": "Tank and the Bangas",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c42801b0b186bddbda4b7e21878cfee37d1a812a",
                 "width": 640
@@ -1904,7 +2032,8 @@
             }
         ],
         "spotify_id": "5cAtakaadWHJLxmGKrKcX7",
-        "multiple": false
+        "multiple": false,
+        "slug": "tank-and-the-bangas"
     },
     "788": {
         "_id": 788,
@@ -1916,7 +2045,8 @@
             "microhouse",
             "minimal techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/7d659d3da1736b743f1232c2d4437c27829161bb",
                 "width": 1000
@@ -1938,7 +2068,8 @@
             }
         ],
         "spotify_id": "0w1RQjkLFHpokbFNikYbPN",
-        "multiple": false
+        "multiple": false,
+        "slug": "talaboman"
     },
     "789": {
         "_id": 789,
@@ -1950,7 +2081,8 @@
             "post-teen pop",
             "r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/673cd94546df0536954198867516fee18cee1605",
                 "width": 1000
@@ -1972,7 +2104,8 @@
             }
         ],
         "spotify_id": "6vWDO969PvNqNYHIOW5v0m",
-        "multiple": false
+        "multiple": false,
+        "slug": "beyonce"
     },
     "790": {
         "_id": 790,
@@ -1996,7 +2129,8 @@
             "slow core",
             "stomp and holler"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6f2ba1edf7501fd10b0b053eacee2c7d4bc7730d",
                 "width": 640
@@ -2013,7 +2147,8 @@
             }
         ],
         "spotify_id": "5QdyldG4Fl4TPiOIeMNpBZ",
-        "multiple": false
+        "multiple": false,
+        "slug": "big-thief"
     },
     "791": {
         "_id": 791,
@@ -2025,7 +2160,8 @@
             "post-hardcore",
             "skate punk"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e70348a5aaf7c4e2b4d77fa57586a6ecf7edf400",
                 "width": 640
@@ -2042,7 +2178,8 @@
             }
         ],
         "spotify_id": "7nqSDaZKccpnUqjzedyZF4",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-bronx"
     },
     "792": {
         "_id": 792,
@@ -2051,7 +2188,8 @@
         "genres": [
             "french indietronica"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/aced5b6586117f8b885ae95915f94e691770f75e",
                 "width": 640
@@ -2068,7 +2206,8 @@
             }
         ],
         "spotify_id": "1Dt1UKLtrJIW1xxRBejjos",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-blaze"
     },
     "793": {
         "_id": 793,
@@ -2077,7 +2216,8 @@
         "genres": [
             "traditional ska"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/498f66a3bdc8fb0a7b6a6735a475b96586a8fca8",
                 "width": 640
@@ -2094,7 +2234,8 @@
             }
         ],
         "spotify_id": "3meHwyfkBwDLVwdwvTevgA",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-delirians"
     },
     "794": {
         "_id": 794,
@@ -2104,7 +2245,8 @@
             "indie garage rock",
             "indie psych-rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/e0e1e4fb5c73b4937aa39725eb91753abf8bbbc3",
                 "width": 1000
@@ -2126,7 +2268,8 @@
             }
         ],
         "spotify_id": "1CMml5seBEaxQzlmaGxMPx",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-buttertones"
     },
     "795": {
         "_id": 795,
@@ -2136,7 +2279,8 @@
             "indie garage rock",
             "indie psych-rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/aa170edfad681f107d3027ff38c38d291297d1a5",
                 "width": 640
@@ -2153,14 +2297,16 @@
             }
         ],
         "spotify_id": "5BCnLrqpwYtufR1bDWn0hG",
-        "multiple": false
+        "multiple": false,
+        "slug": "banes-world"
     },
     "796": {
         "_id": 796,
         "title": "Barclay Crenshaw",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6efd31675597a0aae81cd46c2439be306c5e6bc3",
                 "width": 640
@@ -2177,7 +2323,8 @@
             }
         ],
         "spotify_id": "3uWK9g12Kh4IarZX052vJR",
-        "multiple": false
+        "multiple": false,
+        "slug": "barclay-crenshaw"
     },
     "797": {
         "_id": 797,
@@ -2188,7 +2335,8 @@
             "fluxwork",
             "outsider house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/2dc25140c8eed483c1cc6f8d984b7cd4e390a196",
                 "width": 1000
@@ -2210,7 +2358,8 @@
             }
         ],
         "spotify_id": "4yrO1N273PlTaixa4BNwBz",
-        "multiple": false
+        "multiple": false,
+        "slug": "avalon-emerson"
     },
     "798": {
         "_id": 798,
@@ -2221,7 +2370,8 @@
             "indie punk",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/8c9796ef14a930377932988282f625f660b300e0",
                 "width": 1000
@@ -2243,7 +2393,8 @@
             }
         ],
         "spotify_id": "5q3Rqu9idb7essQqKJ7SOa",
-        "multiple": false
+        "multiple": false,
+        "slug": "b-boys"
     },
     "799": {
         "_id": 799,
@@ -2254,7 +2405,8 @@
             "garage rock",
             "modern blues"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/f0dc811dbf2438f9f983eab338a89026a5899a04",
                 "width": 640
@@ -2271,7 +2423,8 @@
             }
         ],
         "spotify_id": "7mZgBMpvaBziYQfc9TbJH5",
-        "multiple": false
+        "multiple": false,
+        "slug": "benjamin-booker"
     },
     "800": {
         "_id": 800,
@@ -2280,7 +2433,8 @@
         "genres": [
             "chamber pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/a054eba6cc1e768a0473d0934ec91cb0761011d7",
                 "width": 640
@@ -2297,7 +2451,8 @@
             }
         ],
         "spotify_id": "7zHIrsSBL7A0gEJfzv1m7z",
-        "multiple": false
+        "multiple": false,
+        "slug": "benjamin-clementine"
     },
     "801": {
         "_id": 801,
@@ -2306,7 +2461,8 @@
         "genres": [
             "deep melodic euro house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/b8464063eb3ea751cec7033601d1a06c877fa106",
                 "width": 640
@@ -2323,7 +2479,8 @@
             }
         ],
         "spotify_id": "5bKdC6382t97Qnpvs81Rqx",
-        "multiple": false
+        "multiple": false,
+        "slug": "bedouin"
     },
     "802": {
         "_id": 802,
@@ -2340,7 +2497,8 @@
             "southern hip hop",
             "trap music"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5d99171dd55897460cd83ded6d21ef8164a25244",
                 "width": 640
@@ -2357,7 +2515,8 @@
             }
         ],
         "spotify_id": "0FOWNUFHPnMy0vOw1siGqi",
-        "multiple": false
+        "multiple": false,
+        "slug": "belly"
     },
     "803": {
         "_id": 803,
@@ -2369,7 +2528,8 @@
             "dance rock",
             "permanent wave"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/3a573e8712f38125964fcab9460a000a668a382b",
                 "width": 640
@@ -2386,7 +2546,8 @@
             }
         ],
         "spotify_id": "20vuBdFblWUo2FCOvUzusB",
-        "multiple": false
+        "multiple": false,
+        "slug": "david-byrne"
     },
     "804": {
         "_id": 804,
@@ -2402,7 +2563,8 @@
             "rap",
             "trap music"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/fa0f248b9c15c7d9417efe05af575b5c24a650da",
                 "width": 1000
@@ -2424,7 +2586,8 @@
             }
         ],
         "spotify_id": "7kFfY4UjNdNyaeUgLIEbIF",
-        "multiple": false
+        "multiple": false,
+        "slug": "dej-loaf"
     },
     "805": {
         "_id": 805,
@@ -2434,7 +2597,8 @@
             "modern rock",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/7880e6831c1b83030a4c261f46386b04003b0a97",
                 "width": 640
@@ -2451,7 +2615,8 @@
             }
         ],
         "spotify_id": "77SW9BnxLY8rJ0RciFqkHh",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-neighbourhood"
     },
     "806": {
         "_id": 806,
@@ -2461,7 +2626,8 @@
             "deep chiptune",
             "retro electro"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/d130b65443d40d9ba2873245b13ff25c4ebf7804",
                 "width": 640
@@ -2478,7 +2644,8 @@
             }
         ],
         "spotify_id": "1l2oLiukA9i5jEtIyNWIEP",
-        "multiple": false
+        "multiple": false,
+        "slug": "carpenter-brut"
     },
     "807": {
         "_id": 807,
@@ -2491,7 +2658,8 @@
             "noise pop",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/b04e24b7ffdcfaeeffa74beeddabf62fd922209e",
                 "width": 640
@@ -2508,7 +2676,8 @@
             }
         ],
         "spotify_id": "3pIGm1omCcHIb1juBNHspg",
-        "multiple": false
+        "multiple": false,
+        "slug": "cherry-glazerr"
     },
     "808": {
         "_id": 808,
@@ -2524,7 +2693,8 @@
             "quiet storm",
             "soul"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 715,
                 "url": "https://i.scdn.co/image/870e0572f3a799140d6aedb0285d48b93c4af6cd",
                 "width": 699
@@ -2546,7 +2716,8 @@
             }
         ],
         "spotify_id": "0Xf8oDAJYd2D0k3NLI19OV",
-        "multiple": false
+        "multiple": false,
+        "slug": "nile-rodgers-chic"
     },
     "809": {
         "_id": 809,
@@ -2557,7 +2728,8 @@
             "escape room",
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/cb0ac3300c6d082cadfe4060e756d7e2809ab9be",
                 "width": 640
@@ -2574,7 +2746,8 @@
             }
         ],
         "spotify_id": "0AsThoR4KZSVktALiNcQwW",
-        "multiple": false
+        "multiple": false,
+        "slug": "chloe-x-halle"
     },
     "810": {
         "_id": 810,
@@ -2586,7 +2759,8 @@
             "schranz",
             "techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/a2d71b860be244c2d859396e070f21a28e2a27f0",
                 "width": 640
@@ -2603,7 +2777,8 @@
             }
         ],
         "spotify_id": "21444lX8gpmOX36icLmbFI",
-        "multiple": false
+        "multiple": false,
+        "slug": "chris-liebing"
     },
     "811": {
         "_id": 811,
@@ -2619,7 +2794,8 @@
             "retro electro",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/d3845b0119f4cb5375847b0b7bf93b43d942077b",
                 "width": 640
@@ -2636,14 +2812,16 @@
             }
         ],
         "spotify_id": "2mV8aJphiSHYJf43DxL7Gt",
-        "multiple": false
+        "multiple": false,
+        "slug": "chromeo"
     },
     "812": {
         "_id": 812,
         "title": "Cuco",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/130609a072a7d053221458f1699643af9ba807ce",
                 "width": 640
@@ -2660,7 +2838,8 @@
             }
         ],
         "spotify_id": "2Tglaf8nvDzwSQnpSrjLHP",
-        "multiple": false
+        "multiple": false,
+        "slug": "cuco"
     },
     "813": {
         "_id": 813,
@@ -2672,7 +2851,8 @@
             "pop",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e6a6c9cc928f9ed2a69101cc574e676c45c97600",
                 "width": 640
@@ -2689,14 +2869,16 @@
             }
         ],
         "spotify_id": "20wkVLutqVOYrc0kxFs7rA",
-        "multiple": false
+        "multiple": false,
+        "slug": "daniel-caesar"
     },
     "814": {
         "_id": 814,
         "title": "THEY.",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/4a0a4de5f4b052b59a1469c7f9a802bb6e30d599",
                 "width": 640
@@ -2713,7 +2895,8 @@
             }
         ],
         "spotify_id": "0pghUohLPptZWBasy2wmUx",
-        "multiple": false
+        "multiple": false,
+        "slug": "they"
     },
     "815": {
         "_id": 815,
@@ -2725,7 +2908,8 @@
             "rap",
             "underground hip hop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/707005c12d76bbdda637980fc187461438487c86",
                 "width": 640
@@ -2742,7 +2926,8 @@
             }
         ],
         "spotify_id": "1Bl6wpkWCQ4KVgnASpvzzA",
-        "multiple": false
+        "multiple": false,
+        "slug": "brockhampton"
     },
     "816": {
         "_id": 816,
@@ -2755,7 +2940,8 @@
             "modern rock",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/1581dd782c16fb2b56b4b7397549fa98eea91b07",
                 "width": 640
@@ -2772,7 +2958,8 @@
             }
         ],
         "spotify_id": "1KP6TWI40m7p3QBTU6u2xo",
-        "multiple": false
+        "multiple": false,
+        "slug": "brns"
     },
     "817": {
         "_id": 817,
@@ -2784,7 +2971,8 @@
             "filter house",
             "new rave"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 650,
                 "url": "https://i.scdn.co/image/2486419af11926cef0204583954de875061bda71",
                 "width": 1000
@@ -2806,7 +2994,8 @@
             }
         ],
         "spotify_id": "3coXUO5EiwR37nzX4xWjIV",
-        "multiple": false
+        "multiple": false,
+        "slug": "busy-p"
     },
     "818": {
         "_id": 818,
@@ -2815,7 +3004,8 @@
         "genres": [
             "indietronica"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/ab75e7aeb65ef18e112e3ac795cd233c4296a597",
                 "width": 640
@@ -2832,7 +3022,8 @@
             }
         ],
         "spotify_id": "0MoaBi6dSquXp6rrlqlF8R",
-        "multiple": false
+        "multiple": false,
+        "slug": "buscabulla"
     },
     "819": {
         "_id": 819,
@@ -2841,7 +3032,8 @@
         "genres": [
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6d07ec555393742a8109cf430d64b1750faa9bcb",
                 "width": 640
@@ -2858,7 +3050,8 @@
             }
         ],
         "spotify_id": "2cFrymmkijnjDg9SS92EPM",
-        "multiple": false
+        "multiple": false,
+        "slug": "blackbear"
     },
     "820": {
         "_id": 820,
@@ -2868,7 +3061,8 @@
             "deep house",
             "kwaito house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/291be780509bdf6574845aa4b83d58fe623c7934",
                 "width": 640
@@ -2885,7 +3079,8 @@
             }
         ],
         "spotify_id": "6wMr4zKPrrR0UVz08WtUWc",
-        "multiple": false
+        "multiple": false,
+        "slug": "black-coffee"
     },
     "821": {
         "_id": 821,
@@ -2896,7 +3091,8 @@
             "mpb",
             "rock gaucho"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/3f44d0c9a85ca99343e47509c62a682a2bd62c7f",
                 "width": 640
@@ -2913,7 +3109,8 @@
             }
         ],
         "spotify_id": "0ohvsn0lgt51qZUbu9ct4s",
-        "multiple": false
+        "multiple": false,
+        "slug": "boogarins"
     },
     "822": {
         "_id": 822,
@@ -2925,7 +3122,8 @@
             "indietronica",
             "modern rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e901011f4857ee79cf158afc58fc05e33edf3ad7",
                 "width": 640
@@ -2942,7 +3140,8 @@
             }
         ],
         "spotify_id": "2eam0iDomRHGBypaDQLwWI",
-        "multiple": false
+        "multiple": false,
+        "slug": "bleachers"
     },
     "823": {
         "_id": 823,
@@ -2958,7 +3157,8 @@
             "tech house",
             "techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/666da05fe3119a593dbd7bd0027a5ab8084b0fae",
                 "width": 1000
@@ -2980,7 +3180,8 @@
             }
         ],
         "spotify_id": "17dbJyUCrxh4I7iyUrjaHU",
-        "multiple": false
+        "multiple": false,
+        "slug": "carl-craig"
     },
     "824": {
         "_id": 824,
@@ -2989,7 +3190,8 @@
         "genres": [
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1333,
                 "url": "https://i.scdn.co/image/c5365e5b30d155a0135e42fb0795f62aac113aec",
                 "width": 1000
@@ -3011,7 +3213,8 @@
             }
         ],
         "spotify_id": "4kYSro6naA4h99UJvo89HB",
-        "multiple": false
+        "multiple": false,
+        "slug": "cardi-b"
     },
     "825": {
         "_id": 825,
@@ -3022,7 +3225,8 @@
             "indie r&b",
             "vapor soul"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0fc5e65174230710e53521f58a10c29113faf163",
                 "width": 640
@@ -3039,7 +3243,8 @@
             }
         ],
         "spotify_id": "1uiEZYehlNivdK3iQyAbye",
-        "multiple": false
+        "multiple": false,
+        "slug": "tom-misch"
     },
     "826": {
         "_id": 826,
@@ -3048,7 +3253,8 @@
         "genres": [
             "indie jazz"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/1cdc5a9fef1b75918f572b0330c2b238546545c8",
                 "width": 640
@@ -3065,7 +3271,8 @@
             }
         ],
         "spotify_id": "2MPHBxznH1fj59jbOWY38u",
-        "multiple": false
+        "multiple": false,
+        "slug": "sudan-archives"
     },
     "827": {
         "_id": 827,
@@ -3076,7 +3283,8 @@
             "pop rap",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c4841b4430df622296391cb03c1de26be779931a",
                 "width": 640
@@ -3093,7 +3301,8 @@
             }
         ],
         "spotify_id": "4qBgvVog0wzW75IQ48mU7v",
-        "multiple": false
+        "multiple": false,
+        "slug": "superduperkyle"
     },
     "828": {
         "_id": 828,
@@ -3102,7 +3311,8 @@
             "indie punk",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/58bd74c9bd53309f01e46f4d08a86998c9ef835a",
                 "width": 640
@@ -3119,7 +3329,8 @@
             }
         ],
         "spotify_id": "4QkSD9TRUnMtI8Fq1jXJJe",
-        "multiple": false
+        "multiple": false,
+        "slug": "snail-mail"
     },
     "829": {
         "_id": 829,
@@ -3133,7 +3344,8 @@
             "post-teen pop",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/d2d91cb0fe8bbfa9b1fc0b5fdda0ef670c74317d",
                 "width": 640
@@ -3150,7 +3362,8 @@
             }
         ],
         "spotify_id": "2FwJwEswyIUAljqgjNSHgP",
-        "multiple": false
+        "multiple": false,
+        "slug": "snakehips"
     },
     "830": {
         "_id": 830,
@@ -3170,7 +3383,8 @@
             "new rave",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/417d68a62c258e9adb243f1a263bb73f5d913c7a",
                 "width": 640
@@ -3187,7 +3401,8 @@
             }
         ],
         "spotify_id": "43mWhBXSflupNLuNjM5vff",
-        "multiple": false
+        "multiple": false,
+        "slug": "soulwax"
     },
     "831": {
         "_id": 831,
@@ -3211,7 +3426,8 @@
             "singer-songwriter",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0a4c9792c52ec21c3b881542e0739d6f605799b8",
                 "width": 640
@@ -3228,14 +3444,16 @@
             }
         ],
         "spotify_id": "7bcbShaqKdcyjnmv4Ix8j6",
-        "multiple": false
+        "multiple": false,
+        "slug": "st-vincent"
     },
     "832": {
         "_id": 832,
         "title": "Sigrid",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/8c79c45cffd4aeb2f1a32da3440f97279656efdb",
                 "width": 640
@@ -3252,7 +3470,8 @@
             }
         ],
         "spotify_id": "4TrraAsitQKl821DQY42cZ",
-        "multiple": false
+        "multiple": false,
+        "slug": "sigrid"
     },
     "833": {
         "_id": 833,
@@ -3265,7 +3484,8 @@
             "modern rock",
             "shimmer pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/229622f4a137027099fa0e7f3d52c31cc55da572",
                 "width": 640
@@ -3282,14 +3502,16 @@
             }
         ],
         "spotify_id": "3DFoVPonoAAt4EZ1FEI8ue",
-        "multiple": false
+        "multiple": false,
+        "slug": "sir-sly"
     },
     "834": {
         "_id": 834,
         "title": "Skip Marley",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/75ecd9ac6f3cb6e9c060d7ced9bfe203f4dd0379",
                 "width": 640
@@ -3306,7 +3528,8 @@
             }
         ],
         "spotify_id": "4ryoUS0W8qXokfMxrlJt6O",
-        "multiple": false
+        "multiple": false,
+        "slug": "skip-marley"
     },
     "835": {
         "_id": 835,
@@ -3320,7 +3543,8 @@
             "vapor soul",
             "vapor twitch"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e66eb170dd0ff1b9a16442ed793a279af2ea58cc",
                 "width": 640
@@ -3337,7 +3561,8 @@
             }
         ],
         "spotify_id": "3htNAy3vYWWYV8RZFeyRMT",
-        "multiple": false
+        "multiple": false,
+        "slug": "slow-magic"
     },
     "836": {
         "_id": 836,
@@ -3354,7 +3579,8 @@
             "singer-songwriter",
             "stomp and holler"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/955f9aedff448f3987bc17c342bd91311de9d0b2",
                 "width": 640
@@ -3371,7 +3597,8 @@
             }
         ],
         "spotify_id": "4EVpmkEwrLYEg6jIsiPMIb",
-        "multiple": false
+        "multiple": false,
+        "slug": "fleet-foxes"
     },
     "837": {
         "_id": 837,
@@ -3383,7 +3610,8 @@
             "trap music",
             "underground hip hop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/0f4f43aed6d64bf7fd009a7ffdd86a0eddb68722",
                 "width": 1000
@@ -3405,7 +3633,8 @@
             }
         ],
         "spotify_id": "1dqGS5sT6PE2wEvP1gROZC",
-        "multiple": false
+        "multiple": false,
+        "slug": "flatbush-zombies"
     },
     "838": {
         "_id": 838,
@@ -3417,7 +3646,8 @@
             "indietronica",
             "vapor soul"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/10b126ae929011c55feab180df88734e5625fddb",
                 "width": 640
@@ -3434,14 +3664,16 @@
             }
         ],
         "spotify_id": "6wKxOKEA3K6R2UZ3COLXEY",
-        "multiple": false
+        "multiple": false,
+        "slug": "elohim"
     },
     "839": {
         "_id": 839,
         "title": "Dreams",
         "rank": 5,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/f55097abe42952bf276f4472f1b473e2b0a31701",
                 "width": 640
@@ -3458,7 +3690,8 @@
             }
         ],
         "spotify_id": "0lawSNBxNgJFQYJnQzLH8c",
-        "multiple": true
+        "multiple": true,
+        "slug": "dreams"
     },
     "840": {
         "_id": 840,
@@ -3473,7 +3706,8 @@
             "new rave",
             "shimmer pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/48316a20db509e0dcb8dee93b1decd5b22c0564e",
                 "width": 640
@@ -3490,7 +3724,8 @@
             }
         ],
         "spotify_id": "2ARO60gI5do88ho6azmzab",
-        "multiple": false
+        "multiple": false,
+        "slug": "django-django"
     },
     "841": {
         "_id": 841,
@@ -3508,7 +3743,8 @@
             "progressive electro house",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/476809dfd990e91adb7c33c0981e1c7e9b073ec2",
                 "width": 640
@@ -3525,7 +3761,8 @@
             }
         ],
         "spotify_id": "6VD4UEUPvtsemqD3mmTqCR",
-        "multiple": false
+        "multiple": false,
+        "slug": "deorro"
     },
     "842": {
         "_id": 842,
@@ -3536,7 +3773,8 @@
             "indie folk",
             "indie pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6ffd8debc574e5514b0833b757492fc0509546a6",
                 "width": 640
@@ -3553,7 +3791,8 @@
             }
         ],
         "spotify_id": "21egYD1eInY6bGFcniCRT1",
-        "multiple": false
+        "multiple": false,
+        "slug": "first-aid-kit"
     },
     "843": {
         "_id": 843,
@@ -3565,7 +3804,8 @@
             "modern rock",
             "noise pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 689,
                 "url": "https://i.scdn.co/image/411ffe089fcc2e1e649b430fa3ce79f0bd19c58a",
                 "width": 1000
@@ -3587,7 +3827,8 @@
             }
         ],
         "spotify_id": "3P6duIn7oHeiBACZfYeNud",
-        "multiple": false
+        "multiple": false,
+        "slug": "fidlar"
     },
     "844": {
         "_id": 844,
@@ -3597,7 +3838,8 @@
             "indie psych-rock",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5d6a0dbc17ab09c3d351d55be9d8b4157c34088f",
                 "width": 640
@@ -3614,7 +3856,8 @@
             }
         ],
         "spotify_id": "2awB7Ol181cocZcLLNBBAh",
-        "multiple": false
+        "multiple": false,
+        "slug": "fazerdaze"
     },
     "845": {
         "_id": 845,
@@ -3626,7 +3869,8 @@
             "hip hop",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6c3ecb13aa0160b990cc957292751f229c9b5b7b",
                 "width": 640
@@ -3643,7 +3887,8 @@
             }
         ],
         "spotify_id": "7dGJo4pcD2V6oG8kP0tJRR",
-        "multiple": false
+        "multiple": false,
+        "slug": "eminem"
     },
     "846": {
         "_id": 846,
@@ -3655,7 +3900,8 @@
             "indie rock",
             "modern rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/794abb3d2e0a613713a0cb0509e39ca6ff461cc0",
                 "width": 640
@@ -3672,7 +3918,8 @@
             }
         ],
         "spotify_id": "6g0mn3tzAds6aVeUYRsryU",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-war-on-drugs"
     },
     "847": {
         "_id": 847,
@@ -3683,7 +3930,8 @@
             "pop",
             "rap"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/a1bbafd8c21c14fd685a3d8efb0906db7c059a97",
                 "width": 640
@@ -3700,14 +3948,16 @@
             }
         ],
         "spotify_id": "1Xyo4u8uXC1ZmMpatF05PJ",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-weeknd"
     },
     "848": {
         "_id": 848,
         "title": "Senor Kino",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/4901ef2cf46e50b5a9230075e728ed17062eb72b",
                 "width": 640
@@ -3724,7 +3974,8 @@
             }
         ],
         "spotify_id": "2W0kFBz6nHARNF7A5KlWYG",
-        "multiple": false
+        "multiple": false,
+        "slug": "senor-kino"
     },
     "849": {
         "_id": 849,
@@ -3738,7 +3989,8 @@
             "electronic trap",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6f2637eed9b15b8655cbb7071c6d335a5611cefd",
                 "width": 640
@@ -3755,7 +4007,8 @@
             }
         ],
         "spotify_id": "0jNDKefhfSbLR9sFvcPLHo",
-        "multiple": false
+        "multiple": false,
+        "slug": "san-holo"
     },
     "850": {
         "_id": 850,
@@ -3766,7 +4019,8 @@
             "rap",
             "trap music"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/2ebe30fc7fd5684743d4ab03b8e6e18af8dc3e81",
                 "width": 640
@@ -3783,7 +4037,8 @@
             }
         ],
         "spotify_id": "1z7b1Pr1rSlvWRzsW3HOrS",
-        "multiple": false
+        "multiple": false,
+        "slug": "russ"
     },
     "851": {
         "_id": 851,
@@ -3793,7 +4048,8 @@
             "garage rock",
             "modern blues"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/6c0323b466cad4c6133e0139b0c6585cd2f6ddde",
                 "width": 640
@@ -3810,7 +4066,8 @@
             }
         ],
         "spotify_id": "4rfE3kN2zKNC9L9tt3iVOg",
-        "multiple": false
+        "multiple": false,
+        "slug": "ron-gallo"
     },
     "852": {
         "_id": 852,
@@ -3823,7 +4080,8 @@
             "garage psych",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 533,
                 "url": "https://i.scdn.co/image/a689c82f61ac9a4b905a539c0979d5b10aa8b11a",
                 "width": 800
@@ -3845,7 +4103,8 @@
             }
         ],
         "spotify_id": "65mMkD9WW39U9Yadv0dWUF",
-        "multiple": false
+        "multiple": false,
+        "slug": "rolling-blackouts-coastal-fever"
     },
     "853": {
         "_id": 853,
@@ -3856,7 +4115,8 @@
             "pop emo",
             "pop punk"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/85dbdfd31de23dcc9d1e3192f74878ded93c5c1b",
                 "width": 640
@@ -3873,7 +4133,8 @@
             }
         ],
         "spotify_id": "6oFs3qk4VepIVFdoD4jmsy",
-        "multiple": false
+        "multiple": false,
+        "slug": "pvris"
     },
     "854": {
         "_id": 854,
@@ -3885,7 +4146,8 @@
             "indie r&b",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/1c05a0ccc3c2ea0d93039a6234f5c6f266a8a30d",
                 "width": 640
@@ -3902,7 +4164,8 @@
             }
         ],
         "spotify_id": "6lay1nwbE6hTx1jivysUAL",
-        "multiple": false
+        "multiple": false,
+        "slug": "princess-nokia"
     },
     "855": {
         "_id": 855,
@@ -3915,7 +4178,8 @@
             "noise pop",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/188125b3f71a592e9d28ca312529e7acb5f41c35",
                 "width": 1000
@@ -3937,7 +4201,8 @@
             }
         ],
         "spotify_id": "5DT78nxI4rAHYddufPUOBx",
-        "multiple": false
+        "multiple": false,
+        "slug": "priests"
     },
     "856": {
         "_id": 856,
@@ -3947,7 +4212,8 @@
             "modern rock",
             "neo-psychedelic"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/14986410cac8475f5036cfba5d2eec56a1399c0d",
                 "width": 640
@@ -3964,7 +4230,8 @@
             }
         ],
         "spotify_id": "4kI8Ie27vjvonwaB2ePh8T",
-        "multiple": false
+        "multiple": false,
+        "slug": "portugal-the-man"
     },
     "857": {
         "_id": 857,
@@ -3973,7 +4240,8 @@
         "genres": [
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/3f2e2fc37d2f3b2c424f491f6306735bb34219a6",
                 "width": 640
@@ -3990,7 +4258,8 @@
             }
         ],
         "spotify_id": "6gK1Uct5FEdaUWRWpU4Cl2",
-        "multiple": false
+        "multiple": false,
+        "slug": "petit-biscuit"
     },
     "858": {
         "_id": 858,
@@ -3999,7 +4268,8 @@
         "genres": [
             "alternative hip hop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/746c08b38a00e4cc13d5b8f7cbd5ff0608fc1334",
                 "width": 640
@@ -4016,14 +4286,16 @@
             }
         ],
         "spotify_id": "0ABk515kENDyATUdpCKVfW",
-        "multiple": null
+        "multiple": null,
+        "slug": "westside-gunn-conway"
     },
     "859": {
         "_id": 859,
         "title": "The Regrettes",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c0c8bd1f95da702c98d7d31b2ecd263f36b7c835",
                 "width": 640
@@ -4040,7 +4312,8 @@
             }
         ],
         "spotify_id": "67WNUxmM7y4WzHPAVzBu3E",
-        "multiple": false
+        "multiple": false,
+        "slug": "the-regrettes"
     },
     "860": {
         "_id": 860,
@@ -4051,7 +4324,8 @@
             "float house",
             "outsider house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/56a60dc559ac3a0f2bd66e419c42d0d45e0ae157",
                 "width": 640
@@ -4068,7 +4342,8 @@
             }
         ],
         "spotify_id": "2mLA48B366zkELXYx7hcDN",
-        "multiple": false
+        "multiple": false,
+        "slug": "peggy-gou"
     },
     "861": {
         "_id": 861,
@@ -4095,7 +4370,8 @@
             "singer-songwriter",
             "synthpop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/35c14ed9b492c32b76d6119144e766fad7117cdb",
                 "width": 640
@@ -4112,7 +4388,8 @@
             }
         ],
         "spotify_id": "2ueoLVCXQ948OfhVvAy3Nn",
-        "multiple": false
+        "multiple": false,
+        "slug": "perfume-genius"
     },
     "862": {
         "_id": 862,
@@ -4122,7 +4399,8 @@
             "chillwave",
             "ninja"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/74a2eb1ad773180e5fa2a6b17154fe054631a73f",
                 "width": 640
@@ -4139,7 +4417,8 @@
             }
         ],
         "spotify_id": "21mKp7DqtSNHhCAU2ugvUw",
-        "multiple": false
+        "multiple": false,
+        "slug": "odesza"
     },
     "863": {
         "_id": 863,
@@ -4169,7 +4448,8 @@
             "psychedelic rock",
             "punk blues"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/5aa0ad0d4610d25d0fd715341de4dadbfec14265",
                 "width": 640
@@ -4186,7 +4466,8 @@
             }
         ],
         "spotify_id": "3qYfqdVwX0fil71onLpLkh",
-        "multiple": false
+        "multiple": false,
+        "slug": "oh-sees"
     },
     "864": {
         "_id": 864,
@@ -4198,7 +4479,8 @@
             "hip hop",
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 667,
                 "url": "https://i.scdn.co/image/8021eb6df9b24b18d19689a8de3846c7d1ec9dbc",
                 "width": 1000
@@ -4220,7 +4502,8 @@
             }
         ],
         "spotify_id": "1EpyA68dKpjf7jXmQL88Hy",
-        "multiple": false
+        "multiple": false,
+        "slug": "noname"
     },
     "865": {
         "_id": 865,
@@ -4230,7 +4513,8 @@
             "alternative pop rock",
             "modern rock"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/b2d8da8fea9637c085c7aace72888bfefb53d936",
                 "width": 640
@@ -4247,13 +4531,15 @@
             }
         ],
         "spotify_id": "1kDGbuxWknIKx4FlgWxiSp",
-        "multiple": false
+        "multiple": false,
+        "slug": "nothing-but-thieves"
     },
     "866": {
         "_id": 866,
         "title": "Pachanga Boys",
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 667,
                 "url": "https://i.scdn.co/image/402d94ff14ae301045a2ac943106d73fb838e002",
                 "width": 1000
@@ -4275,7 +4561,8 @@
             }
         ],
         "spotify_id": "7EqE0DBntJS6OUT4gK9W3P",
-        "multiple": false
+        "multiple": false,
+        "slug": "pachanga-boys"
     },
     "867": {
         "_id": 867,
@@ -4289,7 +4576,8 @@
             "electronic trap",
             "moombahton"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/2f78741ede4a1243d04e209787829f7d43d9b5df",
                 "width": 640
@@ -4306,7 +4594,8 @@
             }
         ],
         "spotify_id": "7yPPzu5UdAK7yagQqjEZQm",
-        "multiple": false
+        "multiple": false,
+        "slug": "party-favor"
     },
     "868": {
         "_id": 868,
@@ -4322,7 +4611,8 @@
             "outsider house",
             "techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 1000,
                 "url": "https://i.scdn.co/image/8bd98cbfd1b9c17c57287575f2cc878d0c8d4d33",
                 "width": 1000
@@ -4344,14 +4634,16 @@
             }
         ],
         "spotify_id": "3BvWiyLcyLMoOIm2U8HepI",
-        "multiple": false
+        "multiple": false,
+        "slug": "omar-s"
     },
     "869": {
         "_id": 869,
         "title": "Otoboke Beaver",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/43d3b575c766aff39da99b6882b030bbfccbf9cf",
                 "width": 640
@@ -4368,7 +4660,8 @@
             }
         ],
         "spotify_id": "0HutkALC7kq2L8b9bnZUkq",
-        "multiple": false
+        "multiple": false,
+        "slug": "otoboke-beaver"
     },
     "870": {
         "_id": 870,
@@ -4378,7 +4671,8 @@
             "pop",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/8439dd1f3f7b449af3fb627ac5c9da9f545ddc55",
                 "width": 640
@@ -4395,7 +4689,8 @@
             }
         ],
         "spotify_id": "3pn4IZjJCZyGTkdHAwZQ39",
-        "multiple": false
+        "multiple": false,
+        "slug": "m"
     },
     "871": {
         "_id": 871,
@@ -4408,7 +4703,8 @@
             "neo-psychedelic",
             "preverb"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c57e283fdc79b0ec62dc6fec7d7f751f5f6d680c",
                 "width": 640
@@ -4425,7 +4721,8 @@
             }
         ],
         "spotify_id": "5J81VungUjSVHxlPpTI9KG",
-        "multiple": false
+        "multiple": false,
+        "slug": "mild-high-club"
     },
     "872": {
         "_id": 872,
@@ -4440,7 +4737,8 @@
             "nu disco",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/8607ca4cd6cb9b4a539bfb45451e93105478ae48",
                 "width": 640
@@ -4457,7 +4755,8 @@
             }
         ],
         "spotify_id": "3cIXmCH7iNcslTbwrwS7zy",
-        "multiple": false
+        "multiple": false,
+        "slug": "moon-boots"
     },
     "873": {
         "_id": 873,
@@ -4477,7 +4776,8 @@
             "outsider house",
             "techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/849e40b627748ad8daeb95c18e227fc605d1c9fb",
                 "width": 640
@@ -4494,7 +4794,8 @@
             }
         ],
         "spotify_id": "6pohviZSNRueSX7uNu63ZX",
-        "multiple": false
+        "multiple": false,
+        "slug": "moodymann"
     },
     "874": {
         "_id": 874,
@@ -4504,7 +4805,8 @@
             "francoton",
             "trap francais"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/2e98b6119803fb28490822fd0dcc791f6d41739f",
                 "width": 640
@@ -4521,7 +4823,8 @@
             }
         ],
         "spotify_id": "4WnAHZz1pgl8hus8hidIRV",
-        "multiple": false
+        "multiple": false,
+        "slug": "mhd"
     },
     "875": {
         "_id": 875,
@@ -4530,7 +4833,8 @@
         "genres": [
             "indie r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c83d813cb11913bec2993793849552afc1e0faef",
                 "width": 640
@@ -4547,7 +4851,8 @@
             }
         ],
         "spotify_id": "1xHQO9GJIW9OXHxGBISYc5",
-        "multiple": false
+        "multiple": false,
+        "slug": "marian-hill"
     },
     "876": {
         "_id": 876,
@@ -4563,7 +4868,8 @@
             "southern hip hop",
             "urban contemporary"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/69d5702fb1057788fc79b4d0432cb245d3d2a871",
                 "width": 640
@@ -4580,7 +4886,8 @@
             }
         ],
         "spotify_id": "360IAlyVv4PCEVjgyMZrxK",
-        "multiple": false
+        "multiple": false,
+        "slug": "miguel"
     },
     "877": {
         "_id": 877,
@@ -4593,7 +4900,8 @@
             "minimal techno",
             "tech house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/0796a3a622fdcfa603b46318592d0b6dc9a99250",
                 "width": 640
@@ -4610,7 +4918,8 @@
             }
         ],
         "spotify_id": "5R9d1YP5jtBw2IrQItGzQI",
-        "multiple": false
+        "multiple": false,
+        "slug": "michael-mayer"
     },
     "878": {
         "_id": 878,
@@ -4626,7 +4935,8 @@
             "minimal tech house",
             "tech house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 467,
                 "url": "https://i.scdn.co/image/7f2ccc01197efbf65b594e01b795d930f56bafd5",
                 "width": 700
@@ -4648,7 +4958,8 @@
             }
         ],
         "spotify_id": "4TlzX7s6kuZDtiBpsopcBf",
-        "multiple": false
+        "multiple": false,
+        "slug": "motor-city-drum-ensemble"
     },
     "879": {
         "_id": 879,
@@ -4662,7 +4973,8 @@
             "indie r&b",
             "neo soul"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/27ae9ce5c4227dca65e0f492e11ef98513c9eb5b",
                 "width": 640
@@ -4679,7 +4991,8 @@
             }
         ],
         "spotify_id": "5W10uJRsbt9bROJDKoI1Wn",
-        "multiple": false
+        "multiple": false,
+        "slug": "moses-sumney"
     },
     "880": {
         "_id": 880,
@@ -4691,7 +5004,8 @@
             "pop",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/e767eb0b433f4143183a8e8de77211ce0eaa394b",
                 "width": 640
@@ -4708,14 +5022,16 @@
             }
         ],
         "spotify_id": "23fqKkggKUBHNkbKtXEls4",
-        "multiple": false
+        "multiple": false,
+        "slug": "kygo"
     },
     "881": {
         "_id": 881,
         "title": "Kyle Hall",
         "rank": 6,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/1a17d716fc7e864237360f511b5a91cbe9c0b66f",
                 "width": 640
@@ -4732,7 +5048,8 @@
             }
         ],
         "spotify_id": "41OIv2uCiP3bPfbFYbnWSy",
-        "multiple": true
+        "multiple": true,
+        "slug": "kyle-hall"
     },
     "882": {
         "_id": 882,
@@ -4742,7 +5059,8 @@
             "indie poptimism",
             "pop"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c64502ad3d1b63049fed47dcd0a0382e2de6e638",
                 "width": 640
@@ -4759,7 +5077,8 @@
             }
         ],
         "spotify_id": "49tQo2QULno7gxHutgccqF",
-        "multiple": false
+        "multiple": false,
+        "slug": "lany"
     },
     "883": {
         "_id": 883,
@@ -4772,7 +5091,8 @@
             "pop",
             "tropical house"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/9dff3ce95e282d06aec35941c27e8c153a284815",
                 "width": 640
@@ -4789,7 +5109,8 @@
             }
         ],
         "spotify_id": "4SqTiwOEdYrNayaGMkc7ia",
-        "multiple": false
+        "multiple": false,
+        "slug": "leon"
     },
     "884": {
         "_id": 884,
@@ -4802,7 +5123,8 @@
             "neo soul",
             "r&b"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/437ebe934d9dc72d78645fc075bc093236d6b980",
                 "width": 640
@@ -4819,7 +5141,8 @@
             }
         ],
         "spotify_id": "4VA3EAvncrTucjTmrvd4GE",
-        "multiple": false
+        "multiple": false,
+        "slug": "lion-babe"
     },
     "885": {
         "_id": 885,
@@ -4829,7 +5152,8 @@
             "grupera",
             "regional mexican"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/76ccd054e5910e1d20fc0f1fdfef1501756174dd",
                 "width": 640
@@ -4846,7 +5170,8 @@
             }
         ],
         "spotify_id": "0ZCO8oVkMj897cKgFH7fRW",
-        "multiple": false
+        "multiple": false,
+        "slug": "los-angeles-azules"
     },
     "886": {
         "_id": 886,
@@ -4855,7 +5180,8 @@
         "genres": [
             "edm"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/c54aeee5871632de61735ae7ed53e07cdb45ef70",
                 "width": 640
@@ -4872,14 +5198,16 @@
             }
         ],
         "spotify_id": "7wg1qvie3KqDNQbAkTdbX0",
-        "multiple": false
+        "multiple": false,
+        "slug": "louis-the-child"
     },
     "887": {
         "_id": 887,
         "title": "LP",
         "rank": 4,
         "genres": [],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/9da46cc5cb2f757f6a55588f5506bdaf38350a4c",
                 "width": 640
@@ -4896,7 +5224,8 @@
             }
         ],
         "spotify_id": "0J7U24vlOOIeMpuaO6Q85A",
-        "multiple": false
+        "multiple": false,
+        "slug": "lp"
     },
     "888": {
         "_id": 888,
@@ -4913,7 +5242,8 @@
             "tech house",
             "techno"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/9c216c1dd5f44316c9d5f9fc95254d980be5d7bf",
                 "width": 640
@@ -4930,7 +5260,8 @@
             }
         ],
         "spotify_id": "3TXQ1ddouwQAI78hV4hXDj",
-        "multiple": false
+        "multiple": false,
+        "slug": "maceo-plex-live"
     },
     "889": {
         "_id": 889,
@@ -4940,7 +5271,8 @@
             "indie poptimism",
             "indie rockism"
         ],
-        "images": [{
+        "images": [
+            {
                 "height": 640,
                 "url": "https://i.scdn.co/image/30e2663e560a1cec8407f686927c84da0fce7438",
                 "width": 640
@@ -4957,6 +5289,7 @@
             }
         ],
         "spotify_id": "7eaa5bidliPI0djFYv166f",
-        "multiple": false
+        "multiple": false,
+        "slug": "magic-giant"
     }
 }
