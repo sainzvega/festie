@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { getArtistsById } from 'api/artists';
+import { getArtistByName } from 'api/artists';
 import ArtistRecommended from './ArtistRecommended';
 import ArtistInfo from './ArtistInfo';
 
@@ -12,8 +12,8 @@ export class Artist extends Component {
     }
 
     componentDidMount() {
-        const { _id } = this.props.match.params;
-        const artist = getArtistsById(_id);
+        const { artistName } = this.props.match.params;
+        const artist = getArtistByName(artistName);
         this.setState(() => ({ artist }));
     }
 
