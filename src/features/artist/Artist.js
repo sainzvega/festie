@@ -23,14 +23,14 @@ export class Artist extends Component {
 
     renderArtist(artist) {                
         return (
-            <div>
+            <main>
                 <br />
                 <br />
                 <div className="flex-row">                
                     <ArtistRecommended artist={artist}/>
                     <ArtistInfo artist={artist}/>
                 </div>
-            </div>            
+            </main>            
         );
     }
 
