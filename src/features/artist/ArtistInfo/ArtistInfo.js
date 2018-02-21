@@ -11,7 +11,7 @@ class ArtistInfo extends Component {
                 <ArtistInfoHeader title={title} image={image}/>
                 <br />
                 <br />
-                <ArtistInfoVideoPlayer videoUrl={videoUrl}/>
+                <ArtistInfoVideoPlayer title={title} videoUrl={videoUrl}/>
             </div>
         );
     }
