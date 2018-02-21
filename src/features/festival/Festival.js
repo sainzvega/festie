@@ -11,9 +11,9 @@ export class Festival extends Component {
             artistsDay1: [],
             artistsDay2: [],
             artistsDay3: [],
-            headerDay1: 'Festival Day 1',
-            headerDay2: 'Festival Day 2',
-            headerDay3: 'Festival Day 3',
+            headerDay1: 'April 13 / April 20',
+            headerDay2: 'April 14 / April 21',
+            headerDay3: 'April 15 / April 22',
         };
     }
 
